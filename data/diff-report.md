@@ -1,0 +1,843 @@
+# Festival data diff report
+
+## New festivals found (not in dataset)
+
+- **Whānau Mārama: New Zealand International Film Festival** (NZ) — 2026-07-29 to 2026-09-09
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Whānau Mārama: New Zealand International Film Festival, NZ - July 29-September 9`
+- **Melbourne International Film Festival** (Australia) — 2026-08-06 to 2026-08-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Melbourne International Film Festival, Australia - August 6-23`
+- **Chichester International Film Festival** (UK) — 2026-08-07 to 2026-08-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Chichester International Film Festival, UK - August 7-23`
+- **Festival Of Cinema NYC** (US) — 2026-08-07 to 2026-08-16
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Festival Of Cinema NYC, US - August 7-16`
+- **Edinburgh International Film Festival** (UK) — 2026-08-13 to 2026-08-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Edinburgh International Film Festival, UK - August 13-19`
+- **Sarajevo Film Festival** (Bosnia and Herzegovina) — 2026-08-14 to 2026-08-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sarajevo Film Festival, Bosnia and Herzegovina - August 14-21`
+- **August Sunrise Film Festival** (UK) — 2026-08-20 to 2026-08-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `August Sunrise Film Festival, UK - August 20-23`
+- **Counties Independent Film Festival** (UK) — 2026-08-21 to 2026-08-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Counties Independent Film Festival, UK - August 21-23`
+- **Norwegian International Film Festival Haugesund** (Norway) — 2026-08-22 to 2026-08-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Norwegian International Film Festival Haugesund, Norway - August 22-28`
+- **September Venice International Film Festival** (Italy) — 2026-09-02 to 2026-09-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `September Venice International Film Festival, Italy - September 2-12`
+- **Telluride Film Festival** (US) — 2026-09-03 to 2026-09-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Telluride Film Festival, US - September 3-7`
+- **Brussels International Film Festival** (Belgium) — 2026-09-04 to 2026-09-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Brussels International Film Festival, Belgium - September 4-12`
+- **Martha’s Vineyard International Film Festival** (US) — 2026-09-08 to 2026-09-13
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Martha’s Vineyard International Film Festival, US - September 8-13`
+- **DMZ International Documentary Film Festival** (South Korea) — 2026-09-10 to 2026-09-16
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `DMZ International Documentary Film Festival, South Korea - September 10-16`
+- **TIFF: The Market** (Canada) — 2026-09-10 to 2026-09-16
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `TIFF: The Market, Canada - September 10-16`
+- **Toronto International Film Festival** (Canada) — 2026-09-10 to 2026-09-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Toronto International Film Festival, Canada - September 10-20`
+- **Atlantic International Film Festival** (Canada) — 2026-09-16 to 2026-09-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Atlantic International Film Festival, Canada - September 16-23`
+- **Boston Film Festival** (US) — 2026-09-17 to 2026-09-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Boston Film Festival, US - September 17-21`
+- **Camden International Film Festival** (US) — 2026-09-17 to 2026-09-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Camden International Film Festival, US - September 17-20`
+- **Helsinki International Film Festival - Love And Anarchy** (Finland) — 2026-09-17 to 2026-09-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Helsinki International Film Festival - Love And Anarchy, Finland - September 17-27`
+- **Climate Film Festival** (US) — 2026-09-18 to 2026-09-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Climate Film Festival, US - September 18-21`
+- **Prague Independent Film Festival** (Czechia) — 2026-09-18 to 2026-09-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Prague Independent Film Festival, Czechia - September 18-20`
+- **San Sebastian International Film Festival** (Spain) — 2026-09-18 to 2026-09-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `San Sebastian International Film Festival, Spain - September 18-26`
+- **Women X Film Festival** (UK) — 2026-09-18 to 2026-09-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Women X Film Festival, UK - September 18-20`
+- **Cinefest Sudbury International Film Festival** (Canada) — 2026-09-19 to 2026-09-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cinefest Sudbury International Film Festival, Canada - September 19-27`
+- **US - September 19 Content Christian Media Conference** (US) — 2026-09-21 to 2026-09-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `US - September 19 Content Christian Media Conference, US - September 21-25`
+- **Encounters Film Festival** (UK) — 2026-09-21 to 2026-09-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Encounters Film Festival, UK - September 21-27`
+- **Calabasas Film Festival** (US) — 2026-09-23 to 2026-09-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Calabasas Film Festival, US - September 23-27`
+- **Finnish Film Affair** (Finland) — 2026-09-23 to 2026-09-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Finnish Film Affair, Finland - September 23-25`
+- **Pingyao International Film Festival** (China) — 2026-09-23 to 2026-09-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Pingyao International Film Festival, China - September 23-29`
+- **Filmfest Hamburg** (Germany) — 2026-09-24 to 2026-10-03
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Filmfest Hamburg, Germany - September 24-October 3`
+- **Reyjavik International Film Festival** (Iceland) — 2026-09-24 to 2026-10-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Reyjavik International Film Festival, Iceland - September 24-October 4`
+- **Zurich Film Festival** (Switzerland) — 2026-09-24 to 2026-10-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Zurich Film Festival, Switzerland - September 24-October 4`
+- **New York Film Festival** (US) — 2026-09-25 to 2026-10-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New York Film Festival, US - September 25-October 12`
+- **IberSeries** (Spain) — 2026-09-29 to 2026-10-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `IberSeries, Spain - September 29-October 2`
+- **UK - September 29 Bolton International Film Festival** (UK) — 2026-09-30 to 2026-10-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `UK - September 29 Bolton International Film Festival, UK - September 30-October 4`
+- **Festival do Rio - Rio de Janeiro International Film Festival** (Brazil) — 2026-10-01 to 2026-10-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Festival do Rio - Rio de Janeiro International Film Festival, Brazil - October 1-11`
+- **Mill Valley Film Festival** (US) — 2026-10-01 to 2026-10-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Mill Valley Film Festival, US - October 1-11`
+- **NLWave** (Netherlands) — 2026-10-01 to 2026-10-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `NLWave, Netherlands - October 1-2`
+- **Vancouver International Film Festival** (Canada) — 2026-10-01 to 2026-10-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Vancouver International Film Festival, Canada - October 1-11`
+- **Hamptons International Film Festival** (US) — 2026-10-02 to 2026-10-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Hamptons International Film Festival, US - October 2-12`
+- **Adelaide Independent Film Festival** (Australia) — 2026-10-03 to 2026-10-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Adelaide Independent Film Festival, Australia - October 3-4`
+- **Busan International Film Festival** (South Korea) — 2026-10-06 to 2026-10-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Busan International Film Festival, South Korea - October 6-15`
+- **Jakarta World Cinema** (Indonesia) — 2026-10-06 to 2026-11-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Jakarta World Cinema, Indonesia - October 6-November 7`
+- **BFI London Film Festival** (UK) — 2026-10-07 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `BFI London Film Festival, UK - October 7-18`
+- **Dinard British & Irish Film Festival** (France) — 2026-10-07 to 2026-10-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Dinard British & Irish Film Festival, France - October 7-11`
+- **Film Fest Gent** (Belgium) — 2026-10-07 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Film Fest Gent, Belgium - October 7-18`
+- **Leiden International Film Festival** (Netherlands) — 2026-10-08 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Leiden International Film Festival, Netherlands - October 8-18`
+- **New York Greek Film Expo** (US) — 2026-10-08 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New York Greek Film Expo, US - October 8-18`
+- **Sitges Film Festival** (Spain) — 2026-10-08 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sitges Film Festival, Spain - October 8-18`
+- **Durban FilmMart** (South Africa) — 2026-10-09 to 2026-10-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Durban FilmMart, South Africa - October 9-12`
+- **Hot Springs Documentary Film Festival** (US) — 2026-10-09 to 2026-10-17
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Hot Springs Documentary Film Festival, US - October 9-17`
+- **Sydney Science Fiction Film Festival** (Australia) — 2026-10-09 to 2026-10-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sydney Science Fiction Film Festival, Australia - October 9-11`
+- **Warsaw International Film Festival** (Poland) — 2026-10-09 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Warsaw International Film Festival, Poland - October 9-18`
+- **Asian Contents & Film Market** (South Korea) — 2026-10-10 to 2026-10-13
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Asian Contents & Film Market, South Korea - October 10-13`
+- **Festival du nouveau cinéma of Montreal** (Canada) — 2026-10-12 to 2026-10-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Festival du nouveau cinéma of Montreal, Canada - October 12-26`
+- **La Roche-sur-Yon International Film Festival** (France) — 2026-10-12 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `La Roche-sur-Yon International Film Festival, France - October 12-18`
+- **MIPCOM** (France) — 2026-10-12 to 2026-10-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `MIPCOM, France - October 12-15`
+- **Adelaide Film Festival** (Australia) — 2026-10-14 to 2026-10-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Adelaide Film Festival, Australia - October 14-25`
+- **Bergen International Film Festival** (Norway) — 2026-10-14 to 2026-10-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Bergen International Film Festival, Norway - October 14-22`
+- **Chelsea Film Festival** (US) — 2026-10-14 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Chelsea Film Festival, US - October 14-18`
+- **Chicago International Film Festival** (US) — 2026-10-14 to 2026-10-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Chicago International Film Festival, US - October 14-25`
+- **Santa Fe International Film Festival** (US) — 2026-10-14 to 2026-10-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Santa Fe International Film Festival, US - October 14-19`
+- **Woodstock Film Festival** (US) — 2026-10-14 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Woodstock Film Festival, US - October 14-18`
+- **Kerry International Film Festival** (Ireland) — 2026-10-15 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Kerry International Film Festival, Ireland - October 15-18`
+- **Middleburg Film Festival** (US) — 2026-10-15 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Middleburg Film Festival, US - October 15-18`
+- **New Hampshire Film Festival** (US) — 2026-10-15 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New Hampshire Film Festival, US - October 15-18`
+- **Disappear Here Film Festival** (Ireland) — 2026-10-16 to 2026-10-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Disappear Here Film Festival, Ireland - October 16-18`
+- **Newport Beach Film Festival** (US) — 2026-10-15 to 2026-10-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Newport Beach Film Festival, US - October 15-22`
+- **Wildscreen Festival** (UK) — 2026-10-19 to 2026-10-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Wildscreen Festival, UK - October 19-22`
+- **AFI Fest** (US) — 2026-10-21 to 2026-10-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `AFI Fest, US - October 21-25`
+- **Jakarta Film Week** (Indonesia) — 2026-10-21 to 2026-10-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Jakarta Film Week, Indonesia - October 21-25`
+- **London Breeze Film Festival** (UK) — 2026-10-21 to 2026-10-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `London Breeze Film Festival, UK - October 21-25`
+- **Virginia Film Festival** (US) — 2026-10-21 to 2026-10-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Virginia Film Festival, US - October 21-25`
+- **Denver Film Festival** (US) — 2026-10-22 to 2026-11-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Denver Film Festival, US - October 22-November 1`
+- **Doc’n Roll London** (UK) — 2026-10-22 to 2026-11-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Doc’n Roll London, UK - October 22-November 8`
+- **Hawaii International Film Festival** (US) — 2026-10-22 to 2026-11-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Hawaii International Film Festival, US - October 22-November 5`
+- **Little Venice Film Festival** (UK) — 2026-10-22 to 2026-10-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Little Venice Film Festival, UK - October 22-28`
+- **Roscommon International Film Festival** (Ireland) — 2026-10-22 to 2026-10-24
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Roscommon International Film Festival, Ireland - October 22-24`
+- **Ji.hlava International Documentary Film Festival** (Czechia) — 2026-10-23 to 2026-11-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Ji.hlava International Documentary Film Festival, Czechia - October 23-November 1`
+- **Valladolid Internacional Film Festival** (Spain) — 2026-10-23 to 2026-10-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Valladolid Internacional Film Festival, Spain - October 23-31`
+- **Budapest International Film Festival** (Hungary) — 2026-10-24 to 2026-11-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Budapest International Film Festival, Hungary - October 24-November 1`
+- **Molodist Kyiv International Film Festival** (Ukraine) — 2026-10-24 to 2026-11-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Molodist Kyiv International Film Festival, Ukraine - October 24-November 1`
+- **SCAD Savannah Film Festival** (US) — 2026-10-24 to 2026-10-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `SCAD Savannah Film Festival, US - October 24-31`
+- **DOK Leipzig** (Germany) — 2026-10-26 to 2026-11-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `DOK Leipzig, Germany - October 26-November 1`
+- **Tokyo International Film Festival** (Japan) — 2026-10-26 to 2026-11-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Tokyo International Film Festival, Japan - October 26-November 4`
+- **Evolution Mallorca International Film Festival** (Spain) — 2026-10-28 to 2026-11-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Evolution Mallorca International Film Festival, Spain - October 28-November 4`
+- **TIFFCOM** (Japan) — 2026-10-28 to 2026-10-30
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `TIFFCOM, Japan - October 28-30`
+- **Austin Film Festival** (US) — 2026-10-29 to 2026-11-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Austin Film Festival, US - October 29-November 5`
+- **Belfast Film Festival** (UK) — 2026-10-29 to 2026-11-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Belfast Film Festival, UK - October 29-November 7`
+- **FilmChelt - Cheltenham Film Festival** (UK) — 2026-10-30 to 2026-11-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `FilmChelt - Cheltenham Film Festival, UK - October 30-November 8`
+- **Spooky Empire Horror Film Festival** (US) — 2026-10-30 to 2026-11-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Spooky Empire Horror Film Festival, US - October 30-November 1`
+- **November Rehoboth Beach International Film Festival** (US) — 2026-11-01 to 2026-11-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `November Rehoboth Beach International Film Festival, US - November 1-8`
+- **The American French Film Festival** (US) — 2026-11-03 to 2026-11-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `The American French Film Festival, US - November 3-8`
+- **Aesthetica Short Film Festival** (UK) — 2026-11-04 to 2026-11-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Aesthetica Short Film Festival, UK - November 4-8`
+- **French Film Festival UK** (UK) — 2026-11-04 to 2026-12-09
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `French Film Festival UK, UK - November 4-December 9`
+- **Nordic Film Days Lubeck** (Germany) — 2026-11-04 to 2026-11-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Nordic Film Days Lubeck, Germany - November 4-8`
+- **European Film Festival Scanorama** (Lithuania) — 2026-11-05 to 2026-11-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `European Film Festival Scanorama, Lithuania - November 5-22`
+- **Leeds International Film Festival** (UK) — 2026-11-05 to 2026-11-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Leeds International Film Festival, UK - November 5-22`
+- **Three Rivers Film Festival** (US) — 2026-11-05 to 2026-11-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Three Rivers Film Festival, US - November 5-15`
+- **Camerimage Film Festival** (Poland) — 2026-11-07 to 2026-11-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Camerimage Film Festival, Poland - November 7-14`
+- **Manchester Animation Festival** (UK) — 2026-11-08 to 2026-11-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Manchester Animation Festival, UK - November 8-12`
+- **American Film Market (AFM)** (US) — 2026-11-10 to 2026-11-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `American Film Market (AFM), US - November 10-15`
+- **UK - November 11 DOC NYC** (US) — 2026-11-11 to 2026-11-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `UK - November 11 DOC NYC, US - November 11-29`
+- **Cork International Film Festival** (Ireland) — 2026-11-12 to 2026-11-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cork International Film Festival, Ireland - November 12-22`
+- **International Documentary Film Festival Amsterdam** (Netherlands) — 2026-11-12 to 2026-11-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `International Documentary Film Festival Amsterdam, Netherlands - November 12-22`
+- **City Lights Film Festival** (UK) — 2026-11-14 to 2026-11-17
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `City Lights Film Festival, UK - November 14-17`
+- **Houston Greek Film Festival** (US) — 2026-11-19 to 2026-11-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Houston Greek Film Festival, US - November 19-22`
+- **Marrakech Film Festival** (Morocco) — 2026-11-20 to 2026-11-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Marrakech Film Festival, Morocco - November 20-28`
+- **TFL Meeting Event** (Italy) — 2026-11-26 to 2026-11-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `TFL Meeting Event, Italy - November 26-28`
+- **JAFF Market** (Indonesia) — 2026-11-28 to 2026-11-30
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `JAFF Market, Indonesia - November 28-30`
+- **Jogpa-NETPAC Asian Film Festival** (Indonesia) — 2026-11-28 to 2026-12-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Jogpa-NETPAC Asian Film Festival, Indonesia - November 28-December 5`
+- **December Asia TV Forum & Market** (Singapore) — 2026-12-01 to 2026-12-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `December Asia TV Forum & Market, Singapore - December 1-4`
+- **UK - December 3 Red Sea International Film Festival** (Saudi Arabia) — 2026-12-03 to 2026-12-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `UK - December 3 Red Sea International Film Festival, Saudi Arabia - December 3-12`
+- **Previous events Saint Augustine Film Festival** (US) — 2026-01-05 to 2026-01-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Previous events Saint Augustine Film Festival, US - January 5-11`
+- **Palm Springs International Film Festival** (US) — 2026-01-02 to 2026-01-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Palm Springs International Film Festival, US - January 2-12`
+- **Dances With Films: New York** (US) — 2026-01-15 to 2026-01-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Dances With Films: New York, US - January 15-18`
+- **Belmont World Film’s Family Festival** (US) — 2026-01-17 to 2026-01-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Belmont World Film’s Family Festival, US - January 17-19`
+- **FIPADOC International Documentary Film Festival** (France) — 2026-01-23 to 2026-01-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `FIPADOC International Documentary Film Festival, France - January 23-31`
+- **Sundance Film Festival** (US) — 2026-01-22 to 2026-02-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sundance Film Festival, US - January 22-February 1`
+- **Goteborg Film Festival** (Sweden) — 2026-01-23 to 2026-02-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Goteborg Film Festival, Sweden - January 23-February 1`
+- **Los Angeles Greek Film Festival-doc** (US) — 2026-01-30 to 2026-02-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Los Angeles Greek Film Festival-doc, US - January 30-February 1`
+- **SCAD TVfest** (US) — 2026-02-04 to 2026-02-06
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `SCAD TVfest, US - February 4-6`
+- **Ostend Film Festival** (Belgium) — 2026-01-30 to 2026-02-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Ostend Film Festival, Belgium - January 30-February 7`
+- **International Film Festival Rotterdam** (Netherlands) — 2026-01-29 to 2026-02-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `International Film Festival Rotterdam, Netherlands - January 29-February 8`
+- **DocPoint - Helsinki Documentary Film Festival** (Finland) — 2026-02-03 to 2026-02-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `DocPoint - Helsinki Documentary Film Festival, Finland - February 3-8`
+- **European Film Market** (Germany) — 2026-02-12 to 2026-02-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `European Film Market, Germany - February 12-18`
+- **Berlin International Film Festival** (Germany) — 2026-02-12 to 2026-02-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Berlin International Film Festival, Germany - February 12-22`
+- **New York Comedy Film Festival** (US) — 2026-02-15 to 2026-02-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New York Comedy Film Festival, US - February 15-22`
+- **Romford Horror Festival** (UK) — 2026-02-19 to 2026-02-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Romford Horror Festival, UK - February 19-22`
+- **MIP London** (UK) — 2026-02-22 to 2026-02-24
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `MIP London, UK - February 22-24`
+- **Dublin International Film Festival** (Ireland) — 2026-02-19 to 2026-03-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Dublin International Film Festival, Ireland - February 19-March 1`
+- **Australian International Documentary Conference** (Australia) — 2026-03-02 to 2026-03-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Australian International Documentary Conference, Australia - March 2-5`
+- **Cartoon Movie** (France) — 2026-03-03 to 2026-03-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cartoon Movie, France - March 3-5`
+- **FrightFest Glasgow** (UK) — 2026-03-05 to 2026-03-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `FrightFest Glasgow, UK - March 5-7`
+- **Glasgow Film Festival** (UK) — 2026-02-25 to 2026-03-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Glasgow Film Festival, UK - February 25-March 8`
+- **Gasparilla International Film Festival** (US) — 2026-03-03 to 2026-03-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Gasparilla International Film Festival, US - March 3-8`
+- **Johannesburg Film Festival** (South Africa) — 2026-03-03 to 2026-03-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Johannesburg Film Festival, South Africa - March 3-8`
+- **Cinema Made In Italy** (UK) — 2026-03-04 to 2026-03-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cinema Made In Italy, UK - March 4-8`
+- **True/False Film Festival** (US) — 2026-03-05 to 2026-03-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `True/False Film Festival, US - March 5-8`
+- **Christian Worldview Film Festival** (US) — 2026-03-09 to 2026-03-13
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Christian Worldview Film Festival, US - March 9-13`
+- **New York International Children’s Film Festival** (US) — 2026-02-28 to 2026-03-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New York International Children’s Film Festival, US - February 28-March 15`
+- **Luxembourg City Film Festival** (Luxembourg) — 2026-03-05 to 2026-03-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Luxembourg City Film Festival, Luxembourg - March 5-15`
+- **Thessaloniki International Documentary Festival** (Greece) — 2026-03-05 to 2026-03-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Thessaloniki International Documentary Festival, Greece - March 5-15`
+- **Malaga Film Festival** (Spain) — 2026-03-06 to 2026-03-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Malaga Film Festival, Spain - March 6-15`
+- **SXSW** (US) — 2026-03-12 to 2026-03-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `SXSW, US - March 12-18`
+- **Hong Kong-Asia Film Financing Forum** (Hong Kong) — 2026-03-17 to 2026-03-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Hong Kong-Asia Film Financing Forum, Hong Kong - March 17-19`
+- **Borderlines Film Festival** (UK) — 2026-03-06 to 2026-03-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Borderlines Film Festival, UK - March 6-21`
+- **Filmart** (Hong Kong) — 2026-03-17 to 2026-03-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Filmart, Hong Kong - March 17-20`
+- **Vilnius International Film Festival** (Lithuania) — 2026-03-09 to 2026-03-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Vilnius International Film Festival, Lithuania - March 9-22`
+- **Cinequest Film Festival** (US) — 2026-03-10 to 2026-03-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cinequest Film Festival, US - March 10-22`
+- **CPH:DOX** (Denmark) — 2026-03-11 to 2026-03-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `CPH:DOX, Denmark - March 11-22`
+- **HippFest** (UK) — 2026-03-18 to 2026-03-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `HippFest, UK - March 18-22`
+- **Sofia Meetings** (Bulgaria) — 2026-03-18 to 2026-03-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sofia Meetings, Bulgaria - March 18-22`
+- **Hebden Bridge Film Festival** (UK) — 2026-03-20 to 2026-03-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Hebden Bridge Film Festival, UK - March 20-22`
+- **Diagonale** (Austria) — 2026-03-18 to 2026-03-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Diagonale, Austria - March 18-23`
+- **Series Mania** (France) — 2026-03-20 to 2026-03-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Series Mania, France - March 20-27`
+- **BFI Flare London LGBTQIA+ Film Festival** (UK) — 2026-03-18 to 2026-03-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `BFI Flare London LGBTQIA+ Film Festival, UK - March 18-29`
+- **Manchester Film Festival** (UK) — 2026-03-19 to 2026-03-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Manchester Film Festival, UK - March 19-29`
+- **Sonoma International Film Festival** (US) — 2026-03-25 to 2026-03-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sonoma International Film Festival, US - March 25-29`
+- **Garden State Film Festival** (US) — 2026-03-26 to 2026-03-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Garden State Film Festival, US - March 26-29`
+- **Japan Foundation Touring Film Programme** (UK) — 2026-02-06 to 2026-03-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Japan Foundation Touring Film Programme, UK - February 6-March 31`
+- **Sofia International Film Festival** (Bulgaria) — 2026-03-12 to 2026-03-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sofia International Film Festival, Bulgaria - March 12-31`
+- **Oska Bright Film Festival** (UK) — 2026-03-28 to 2026-04-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Oska Bright Film Festival, UK - March 28-April 2`
+- **Qumra** (Qatar) — 2026-03-27 to 2026-04-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Qumra, Qatar - March 27-April 8`
+- **OFN LGBTQIA+ International Film Festival** (UK) — 2026-04-07 to 2026-04-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `OFN LGBTQIA+ International Film Festival, UK - April 7-11`
+- **Asian Pop-Up Cinema Chicago Festival** (US) — 2026-03-19 to 2026-04-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Asian Pop-Up Cinema Chicago Festival, US - March 19-April 12`
+- **Hong Kong International Film Festival** (Hong Kong) — 2026-04-01 to 2026-04-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Hong Kong International Film Festival, Hong Kong - April 1-12`
+- **PaleyFest LA** (US) — 2026-04-04 to 2026-04-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `PaleyFest LA, US - April 4-12`
+- **Sixth Borough Film Festival** (US) — 2026-04-10 to 2026-04-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sixth Borough Film Festival, US - April 10-12`
+- **Boston International Film Festival** (US) — 2026-04-09 to 2026-04-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Boston International Film Festival, US - April 9-14`
+- **Brussels International Fantastic Film Festival** (Belgium) — 2026-04-03 to 2026-04-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Brussels International Fantastic Film Festival, Belgium - April 3-18`
+- **Cleveland International Film Festival** (US) — 2026-04-09 to 2026-04-18
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cleveland International Film Festival, US - April 9-18`
+- **New Directors/New Films** (US) — 2026-04-08 to 2026-04-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New Directors/New Films, US - April 8-19`
+- **Istanbul Film Festival** (Turkey) — 2026-04-09 to 2026-04-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Istanbul Film Festival, Turkey - April 9-19`
+- **Miami Film Festival** (US) — 2026-04-09 to 2026-04-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Miami Film Festival, US - April 9-19`
+- **Sarasota Film Festival** (US) — 2026-04-10 to 2026-04-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sarasota Film Festival, US - April 10-19`
+- **Independent Days International Film Festival Karlsruhe** (Germany) — 2026-04-15 to 2026-04-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Independent Days International Film Festival Karlsruhe, Germany - April 15-19`
+- **Sands: International Film Festival of St Andrews** (UK) — 2026-04-17 to 2026-04-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sands: International Film Festival of St Andrews, UK - April 17-19`
+- **BCN Film Fest** (Spain) — 2026-04-16 to 2026-04-24
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `BCN Film Fest, Spain - April 16-24`
+- **Sunny Bunny LGBTQIA+ Film Festival** (Ukraine) — 2026-04-17 to 2026-04-24
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sunny Bunny LGBTQIA+ Film Festival, Ukraine - April 17-24`
+- **Guadalajara International Film Festival** (Mexico) — 2026-04-17 to 2026-04-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Guadalajara International Film Festival, Mexico - April 17-25`
+- **Visions du Réel** (Switzerland) — 2026-04-17 to 2026-04-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Visions du Réel, Switzerland - April 17-26`
+- **Timeless Film Festival** (Poland) — 2026-04-17 to 2026-04-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Timeless Film Festival, Poland - April 17-27`
+- **Little Venice Film Festival** (UK) — 2026-04-22 to 2026-04-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Little Venice Film Festival, UK - April 22-28`
+- **Canneseries** (France) — 2026-04-23 to 2026-04-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Canneseries, France - April 23-28`
+- **San Luis Obispo International Film Festival** (US) — 2026-04-23 to 2026-04-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `San Luis Obispo International Film Festival, US - April 23-28`
+- **Saudi Film Festival** (Saudi Arabia) — 2026-04-23 to 2026-04-29
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Saudi Film Festival, Saudi Arabia - April 23-29`
+- **Milwaukee Film Festival** (US) — 2026-04-16 to 2026-04-30
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Milwaukee Film Festival, US - April 16-30`
+- **Screen Forever** (Australia) — 2026-04-28 to 2026-04-30
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Screen Forever, Australia - April 28-30`
+- **Far East Film Festival** (Italy) — 2026-04-24 to 2026-05-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Far East Film Festival, Italy - April 24-May 2`
+- **HotDocs** (Canada) — 2026-04-23 to 2026-05-03
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `HotDocs, Canada - April 23-May 3`
+- **Las Palmas De Gran Canaria International Film Festival** (Spain) — 2026-04-23 to 2026-05-03
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Las Palmas De Gran Canaria International Film Festival, Spain - April 23-May 3`
+- **Doclands Documentary Film Festival** (US) — 2026-04-30 to 2026-05-03
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Doclands Documentary Film Festival, US - April 30-May 3`
+- **Margaret Mead Film Festival** (US) — 2026-05-01 to 2026-05-03
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Margaret Mead Film Festival, US - May 1-3`
+- **Wellness Film Festival** (US) — 2026-05-02 to 2026-05-03
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Wellness Film Festival, US - May 2-3`
+- **San Francisco International Film Festival** (US) — 2026-04-23 to 2026-05-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `San Francisco International Film Festival, US - April 23-May 4`
+- **Cascadia International Women’s Film Festival** (US) — 2026-04-30 to 2026-05-04
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cascadia International Women’s Film Festival, US - April 30-May 4`
+- **Doc’n Roll New York** (US) — 2026-04-28 to 2026-05-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Doc’n Roll New York, US - April 28-May 7`
+- **Jeonju International Film Festival** (South Korea) — 2026-04-29 to 2026-05-08
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Jeonju International Film Festival, South Korea - April 29-May 8`
+- **British Urban Film Festival** (UK) — 2026-05-04 to 2026-05-09
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `British Urban Film Festival, UK - May 4-9`
+- **Focus Wales Film Festival** (UK) — 2026-05-07 to 2026-05-09
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Focus Wales Film Festival, UK - May 7-9`
+- **US - May 9 IndieLisboa Film Festival** (Portugal) — 2026-04-30 to 2026-05-10
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `US - May 9 IndieLisboa Film Festival, Portugal - April 30-May 10`
+- **JFilm Festival** (US) — 2026-04-30 to 2026-05-10
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `JFilm Festival, US - April 30-May 10`
+- **UK Asian Film Festival** (UK) — 2026-05-01 to 2026-05-10
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `UK Asian Film Festival, UK - May 1-10`
+- **Docs Barcelona** (Spain) — 2026-05-07 to 2026-05-17
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Docs Barcelona, Spain - May 7-17`
+- **Seattle International Film Festival** (US) — 2026-05-07 to 2026-05-17
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Seattle International Film Festival, US - May 7-17`
+- **Sunderland Shorts Film Festival** (UK) — 2026-05-11 to 2026-05-17
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sunderland Shorts Film Festival, UK - May 11-17`
+- **Marché du Film** (France) — 2026-05-12 to 2026-05-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Marché du Film, France - May 12-20`
+- **Cannes Film Festival** (France) — 2026-05-12 to 2026-05-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cannes Film Festival, France - May 12-23`
+- **Lanzarote International Film Festival** (Spain) — 2026-05-13 to 2026-05-23
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Lanzarote International Film Festival, Spain - May 13-23`
+- **US - May 30 American Black Film Festival** (US) — 2026-05-27 to 2026-05-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `US - May 30 American Black Film Festival, US - May 27-31`
+- **Mendocino Film Festival** (US) — 2026-05-28 to 2026-05-31
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Mendocino Film Festival, US - May 28-31`
+- **US - June 4 Docaviv** (Israel) — 2026-05-27 to 2026-06-06
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `US - June 4 Docaviv, Israel - May 27-June 6`
+- **SXSW London** (UK) — 2026-06-01 to 2026-06-06
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `SXSW London, UK - June 1-6`
+- **Doxumentale** (Germany) — 2026-05-27 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Doxumentale, Germany - May 27-June 7`
+- **Brooklyn Film Festival** (US) — 2026-05-29 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Brooklyn Film Festival, US - May 29-June 7`
+- **Krakow Film Festival** (Poland) — 2026-05-31 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Krakow Film Festival, Poland - May 31-June 7`
+- **Bali International Film Festival** (Indonesia) — 2026-06-01 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Bali International Film Festival, Indonesia - June 1-7`
+- **Los Angeles Greek Film Festival** (US) — 2026-06-01 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Los Angeles Greek Film Festival, US - June 1-7`
+- **Nippon Connection Film Festival** (Germany) — 2026-06-02 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Nippon Connection Film Festival, Germany - June 2-7`
+- **Kashish Pride Film Festival** (India) — 2026-06-03 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Kashish Pride Film Festival, India - June 3-7`
+- **Kingston International Film Festival** (UK) — 2026-06-05 to 2026-06-07
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Kingston International Film Festival, UK - June 5-7`
+- **Seriencamp Festival & Conference** (Germany) — 2026-06-09 to 2026-06-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Seriencamp Festival & Conference, Germany - June 9-11`
+- **ECAM Forum** (Spain) — 2026-06-09 to 2026-06-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `ECAM Forum, Spain - June 9-12`
+- **Sydney Film Festival** (Australia) — 2026-06-03 to 2026-06-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sydney Film Festival, Australia - June 3-14`
+- **Tribeca Film Festival** (US) — 2026-06-03 to 2026-06-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Tribeca Film Festival, US - June 3-14`
+- **Europe On Screen** (Indonesia) — 2026-06-04 to 2026-06-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Europe On Screen, Indonesia - June 4-14`
+- **Lighthouse International Film Festival** (US) — 2026-06-10 to 2026-06-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Lighthouse International Film Festival, US - June 10-14`
+- **Provincetown Film Festival** (US) — 2026-06-10 to 2026-06-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Provincetown Film Festival, US - June 10-14`
+- **DC/DOX Film Festival** (US) — 2026-06-11 to 2026-06-14
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `DC/DOX Film Festival, US - June 11-14`
+- **Belmont World Film** (US) — 2026-03-30 to 2026-06-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Belmont World Film, US - March 30-June 15`
+- **Sheffield DocFest** (UK) — 2026-06-10 to 2026-06-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sheffield DocFest, UK - June 10-15`
+- **Monte Carlo Television Festival** (Monaco) — 2026-06-12 to 2026-06-16
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Monte Carlo Television Festival, Monaco - June 12-16`
+- **BANFF World Media Festival** (Canada) — 2026-06-14 to 2026-06-17
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `BANFF World Media Festival, Canada - June 14-17`
+- **Slano Film Days** (Croatia) — 2026-06-16 to 2026-06-20
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Slano Film Days, Croatia - June 16-20`
+- **Shanghai International Film Festival** (China) — 2026-06-12 to 2026-06-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Shanghai International Film Festival, China - June 12-21`
+- **Transilvania International Film Festival** (Romania) — 2026-06-12 to 2026-06-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Transilvania International Film Festival, Romania - June 12-21`
+- **Bentonville Film Festival** (US) — 2026-06-15 to 2026-06-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Bentonville Film Festival, US - June 15-21`
+- **Brighton Rocks International Film Festival** (UK) — 2026-06-15 to 2026-06-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Brighton Rocks International Film Festival, UK - June 15-21`
+- **Docs Ireland Festival & Market** (Ireland) — 2026-06-16 to 2026-06-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Docs Ireland Festival & Market, Ireland - June 16-21`
+- **SilverVox Film & Music Festival** (US) — 2026-06-18 to 2026-06-21
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `SilverVox Film & Music Festival, US - June 18-21`
+- **Nantucket Film Festival** (US) — 2026-06-17 to 2026-06-22
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Nantucket Film Festival, US - June 17-22`
+- **Sons Of The Desert Convention — Laurel and Hardy Society** (US) — 2026-06-21 to 2026-06-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Sons Of The Desert Convention — Laurel and Hardy Society, US - June 21-25`
+- **CineEurope** (Spain) — 2026-06-22 to 2026-06-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `CineEurope, Spain - June 22-25`
+- **Raindance Film Festival** (UK) — 2026-06-17 to 2026-06-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Raindance Film Festival, UK - June 17-26`
+- **Australia-New Zealand - June 21-July 26 MIFA** (France) — 2026-06-23 to 2026-06-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Australia-New Zealand - June 21-July 26 MIFA, France - June 23-26`
+- **Oakville Festivals of Film and Art** (Canada) — 2026-06-17 to 2026-06-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Oakville Festivals of Film and Art, Canada - June 17-27`
+- **San Francisco International LGBTQ+ Film Festival** (US) — 2026-06-17 to 2026-06-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `San Francisco International LGBTQ+ Film Festival, US - June 17-27`
+- **Annecy International Animation Film Festival** (France) — 2026-06-21 to 2026-06-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Annecy International Animation Film Festival, France - June 21-27`
+- **SCAD Lacoste Film Festival** (France) — 2026-06-25 to 2026-06-27
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `SCAD Lacoste Film Festival, France - June 25-27`
+- **Mediterrane Film Festival** (Malta) — 2026-06-21 to 2026-06-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Mediterrane Film Festival, Malta - June 21-28`
+- **Biarritz Film Festival Nouvelles Vagues** (France) — 2026-06-23 to 2026-06-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Biarritz Film Festival Nouvelles Vagues, France - June 23-28`
+- **Nepal America International Film Festival** (US) — 2026-06-25 to 2026-06-28
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Nepal America International Film Festival, US - June 25-28`
+- **FilmFest Munich** (Germany) — 2026-06-26 to 2026-07-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `FilmFest Munich, Germany - June 26-July 5`
+- **Muslim International Film Festival** (UK) — 2026-07-02 to 2026-07-05
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Muslim International Film Festival, UK - July 2-5`
+- **Karlovy Vary International Film Festival** (Czechia) — 2026-07-03 to 2026-07-11
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Karlovy Vary International Film Festival, Czechia - July 3-11`
+- **FID Marseille** (France) — 2026-07-07 to 2026-07-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `FID Marseille, France - July 7-12`
+- **Galway Film Fleadh** (Ireland) — 2026-07-07 to 2026-07-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Galway Film Fleadh, Ireland - July 7-12`
+- **Walla Walla Movie Crush** (US) — 2026-07-10 to 2026-07-12
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Walla Walla Movie Crush, US - July 10-12`
+- **Jerusalem Film Festival** (Israel) — 2026-07-09 to 2026-07-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Jerusalem Film Festival, Israel - July 9-19`
+- **London Indian Film Festival** (UK) — 2026-07-09 to 2026-07-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `London Indian Film Festival, UK - July 9-19`
+- **Golden Apricot International Film Festival** (Armenia) — 2026-07-12 to 2026-07-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Golden Apricot International Film Festival, Armenia - July 12-19`
+- **Boulder Environmental Nature Outdoors Film Festival** (US) — 2026-07-16 to 2026-07-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Boulder Environmental Nature Outdoors Film Festival, US - July 16-19`
+- **Waco Independent Film Festival** (US) — 2026-07-16 to 2026-07-19
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Waco Independent Film Festival, US - July 16-19`
+- **Malaysia International Film Festival** (Malaysia) — 2026-07-18 to 2026-07-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Malaysia International Film Festival, Malaysia - July 18-25`
+- **Burgas International Film Festival** (Bulgaria) — 2026-07-20 to 2026-07-25
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Burgas International Film Festival, Bulgaria - July 20-25`
+- **New York Asian Film Festival** (US) — 2026-07-10 to 2026-07-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New York Asian Film Festival, US - July 10-26`
+- **Cinema Rediscovered** (UK) — 2026-07-22 to 2026-07-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Cinema Rediscovered, UK - July 22-26`
+- **Comic-Con** (US) — 2026-07-23 to 2026-07-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Comic-Con, US - July 23-26`
+- **Future Of Film Showcase** (Canada) — 2026-07-23 to 2026-07-26
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Future Of Film Showcase, Canada - July 23-26`
+- **Woods Hole Film Festival** (US) — 2026-07-25 to 2026-08-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Woods Hole Film Festival, US - July 25-August 1`
+- **Provence Arts Film Festival** (France) — 2026-07-29 to 2026-08-01
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Provence Arts Film Festival, France - July 29-August 1`
+- **Fantasia International Film Festival** (Canada) — 2026-07-16 to 2026-08-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Fantasia International Film Festival, Canada - July 16-August 2`
+- **New Horizons International Film Festival** (Poland) — 2026-07-23 to 2026-08-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `New Horizons International Film Festival, Poland - July 23-August 2`
+- **Oak Cliff Film Festival** (US) — 2026-07-30 to 2026-08-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Oak Cliff Film Festival, US - July 30-August 2`
+- **Membrana Film Festival** (UK) — 2026-08-01 to 2026-08-02
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Membrana Film Festival, UK - August 1-2`
+- **Locarno Film Festival** (Switzerland) — 2026-08-05 to 2026-08-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Locarno Film Festival, Switzerland - August 5-15`
+- **Martha’s Vineyard African-American Film Festival** (US) — 2026-08-07 to 2026-08-15
+  - source: https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article
+  - raw line: `Martha’s Vineyard African-American Film Festival, US - August 7-15`
+
+_0 entries matched with no change._
