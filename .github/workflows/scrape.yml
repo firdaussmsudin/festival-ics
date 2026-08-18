@@ -1,8 +1,8 @@
 name: Scrape and open PR if changed
 
 on:
-  schedule:
-    - cron: "0 3 * * 1" # every Monday 03:00 UTC — adjust to taste
+  # schedule:
+  #   - cron: "0 3 * * 1" # every Monday 03:00 UTC — adjust to taste
   workflow_dispatch: {} # allows manual trigger from the Actions tab
 
 jobs:

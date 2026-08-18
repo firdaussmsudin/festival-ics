@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:palm-springs-international-film-festival-2026@festival-ics.example
 SUMMARY:Palm Springs International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260112
 DESCRIPTION:festival\nWebsite: https://psfilmfest.org/film-festival-2026\nS
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:previous-events-saint-augustine-film-festival-2026@festival-ics.example
 SUMMARY:Previous events Saint Augustine Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260111
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -31,7 +31,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dances-with-films-new-york-2026@festival-ics.example
 SUMMARY:Dances With Films: New York
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260118
 DESCRIPTION:festival\nWebsite: https://danceswithfilms.com/\nSource: https:
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belmont-world-film-s-family-festival-2026@festival-ics.example
 SUMMARY:Belmont World Film’s Family Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260119
 DESCRIPTION:festival\nWebsite: https://bwffamilyfestival2026.eventive.org/w
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sundance-film-festival-2026@festival-ics.example
 SUMMARY:Sundance Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260201
 DESCRIPTION:festival\nWebsite: https://www.screendaily.com/news/sundance-st
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 UID:fipadoc-international-documentary-film-festival-2026@festival-ics.examp
 	le
 SUMMARY:FIPADOC International Documentary Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260131
 DESCRIPTION:festival\nWebsite: https://www.fipadoc.com/en\nSource: https://
@@ -86,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:goteborg-film-festival-2026@festival-ics.example
 SUMMARY:Goteborg Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260201
 DESCRIPTION:festival\nWebsite: https://goteborgfilmfestival.se/en\nSource: 
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:international-film-festival-rotterdam-2026@festival-ics.example
 SUMMARY:International Film Festival Rotterdam
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260129
 DTEND;VALUE=DATE:20260208
 DESCRIPTION:festival\nWebsite: https://iffr.com/en/\nSource: https://www.sc
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:los-angeles-greek-film-festival-doc-2026@festival-ics.example
 SUMMARY:Los Angeles Greek Film Festival-doc
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260201
 DESCRIPTION:festival\nWebsite: https://www.lagff.org/\nSource: https://www.
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ostend-film-festival-2026@festival-ics.example
 SUMMARY:Ostend Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260207
 DESCRIPTION:festival\nWebsite: https://www.filmfestivaloostende.be/nl/festi
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:docpoint-helsinki-documentary-film-festival-2026@festival-ics.example
 SUMMARY:DocPoint - Helsinki Documentary Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260208
 DESCRIPTION:festival\nWebsite: https://docpointfestival.fi/en/\nSource: htt
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scad-tvfest-2026@festival-ics.example
 SUMMARY:SCAD TVfest
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260206
 DESCRIPTION:festival\nWebsite: https://www.scadtvfest.com/\nSource: https:/
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:japan-foundation-touring-film-programme-2026@festival-ics.example
 SUMMARY:Japan Foundation Touring Film Programme
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260331
 DESCRIPTION:festival\nWebsite: https://www.jpf-film.org.uk/\nSource: https:
@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:european-film-market-2026@festival-ics.example
 SUMMARY:European Film Market
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260218
 DESCRIPTION:festival\nWebsite: https://www.efm-berlinale.de/en/home/homepag
@@ -190,7 +190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:berlin-international-film-festival-2026@festival-ics.example
 SUMMARY:Berlin International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260222
 DESCRIPTION:festival\nWebsite: https://www.berlinale.de/en/home.html\nSourc
@@ -203,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-york-comedy-film-festival-2026@festival-ics.example
 SUMMARY:New York Comedy Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260222
 DESCRIPTION:festival\nWebsite: https://www.comedyfilmfestivals.com/\nSource
@@ -216,7 +216,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:romford-horror-festival-2026@festival-ics.example
 SUMMARY:Romford Horror Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260222
 DESCRIPTION:festival\nWebsite: https://www.romfordhorrorfestival.com/\nSour
@@ -229,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dublin-international-film-festival-2026@festival-ics.example
 SUMMARY:Dublin International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260301
 DESCRIPTION:festival\nWebsite: https://www.diff.ie/\nSource: https://www.sc
@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mip-london-2026@festival-ics.example
 SUMMARY:MIP London
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260224
 DESCRIPTION:festival\nWebsite: https://www.mip-london.com/\nSource: https:/
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:glasgow-film-festival-2026@festival-ics.example
 SUMMARY:Glasgow Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260308
 DESCRIPTION:festival\nWebsite: https://www.glasgowfilmfest.org/home/\nSourc
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 UID:new-york-international-children-s-film-festival-2026@festival-ics.examp
 	le
 SUMMARY:New York International Children’s Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260315
 DESCRIPTION:festival\nWebsite: https://nyicff.org/\nSource: https://www.scr
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 UID:australian-international-documentary-conference-2026@festival-ics.examp
 	le
 SUMMARY:Australian International Documentary Conference
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260305
 DESCRIPTION:festival\nWebsite: https://www.aidc.com.au/\nSource: https://ww
@@ -296,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cartoon-movie-2026@festival-ics.example
 SUMMARY:Cartoon Movie
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260305
 DESCRIPTION:festival\nWebsite: https://www.cartoon-media.eu/movie/\nSource:
@@ -309,7 +309,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gasparilla-international-film-festival-2026@festival-ics.example
 SUMMARY:Gasparilla International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260308
 DESCRIPTION:festival\nWebsite: https://www.gasparillafilmfestival.com/\nSou
@@ -322,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:johannesburg-film-festival-2026@festival-ics.example
 SUMMARY:Johannesburg Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260308
 DESCRIPTION:festival\nWebsite: https://joburgfilmfestival.co.za/\nSource: h
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cinema-made-in-italy-2026@festival-ics.example
 SUMMARY:Cinema Made In Italy
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260308
 DESCRIPTION:festival\nWebsite: https://whatson.bfi.org.uk/Online/default.as
@@ -348,7 +348,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:frightfest-glasgow-2026@festival-ics.example
 SUMMARY:FrightFest Glasgow
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260307
 DESCRIPTION:festival\nWebsite: https://www.glasgowfilm.org/frightfest/\nSou
@@ -361,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:true-false-film-festival-2026@festival-ics.example
 SUMMARY:True/False Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260308
 DESCRIPTION:festival\nWebsite: https://truefalse.org/\nSource: https://www.
@@ -374,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:luxembourg-city-film-festival-2026@festival-ics.example
 SUMMARY:Luxembourg City Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260315
 DESCRIPTION:festival\nWebsite: https://www.luxfilmfest.lu/\nSource: https:/
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 UID:thessaloniki-international-documentary-festival-2026@festival-ics.examp
 	le
 SUMMARY:Thessaloniki International Documentary Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260315
 DESCRIPTION:festival\nWebsite: https://www.filmfestival.gr/en/documentary-f
@@ -401,7 +401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:malaga-film-festival-2026@festival-ics.example
 SUMMARY:Malaga Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260315
 DESCRIPTION:festival\nWebsite: https://festivaldemalaga.com/en/\nSource: ht
@@ -414,7 +414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:borderlines-film-festival-2026@festival-ics.example
 SUMMARY:Borderlines Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260321
 DESCRIPTION:festival\nWebsite: https://borderlinesfilmfestival.co.uk/\nSour
@@ -427,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:christian-worldview-film-festival-2026@festival-ics.example
 SUMMARY:Christian Worldview Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260313
 DESCRIPTION:festival\nWebsite: https://cwvff.com/\nSource: https://www.scre
@@ -440,7 +440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vilnius-international-film-festival-2026@festival-ics.example
 SUMMARY:Vilnius International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260322
 DESCRIPTION:festival\nWebsite: https://kinopavasaris.lt/en/\nSource: https:
@@ -453,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cinequest-film-festival-2026@festival-ics.example
 SUMMARY:Cinequest Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260322
 DESCRIPTION:festival\nWebsite: https://www.cinequest.org/\nSource: https://
@@ -466,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cph-dox-2026@festival-ics.example
 SUMMARY:CPH:DOX
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260322
 DESCRIPTION:festival\nWebsite: https://cphdox.dk/\nSource: https://www.scre
@@ -479,7 +479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sxsw-2026@festival-ics.example
 SUMMARY:SXSW
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260318
 DESCRIPTION:festival\nWebsite: https://sxsw.com/\nSource: https://www.scree
@@ -492,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sofia-international-film-festival-2026@festival-ics.example
 SUMMARY:Sofia International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260331
 DESCRIPTION:festival\nWebsite: https://siff.bg/en/\nSource: https://www.scr
@@ -505,7 +505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hong-kong-asia-film-financing-forum-2026@festival-ics.example
 SUMMARY:Hong Kong-Asia Film Financing Forum
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260319
 DESCRIPTION:festival\nWebsite: https://industry.hkiff.org.hk/en/haf/introdu
@@ -518,7 +518,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:filmart-2026@festival-ics.example
 SUMMARY:Filmart
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260320
 DESCRIPTION:festival\nWebsite: https://www.screendaily.com/features/five-ta
@@ -533,7 +533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hippfest-2026@festival-ics.example
 SUMMARY:HippFest
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260322
 DESCRIPTION:festival\nWebsite: https://www.hippodromecinema.co.uk/hippfest/
@@ -546,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sofia-meetings-2026@festival-ics.example
 SUMMARY:Sofia Meetings
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260322
 DESCRIPTION:festival\nWebsite: https://sofiameetings.siff.bg/\nSource: http
@@ -559,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:diagonale-2026@festival-ics.example
 SUMMARY:Diagonale
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260323
 DESCRIPTION:festival\nWebsite: https://www.diagonale.at/en/\nSource: https:
@@ -572,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bfi-flare-london-lgbtqia-film-festival-2026@festival-ics.example
 SUMMARY:BFI Flare London LGBTQIA+ Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260329
 DESCRIPTION:festival\nWebsite: https://whatson.bfi.org.uk/flare/Online/defa
@@ -585,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:manchester-film-festival-2026@festival-ics.example
 SUMMARY:Manchester Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260329
 DESCRIPTION:festival\nWebsite: https://www.manchesterfilmfestival.com/\nSou
@@ -598,7 +598,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asian-pop-up-cinema-chicago-festival-2026@festival-ics.example
 SUMMARY:Asian Pop-Up Cinema Chicago Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260412
 DESCRIPTION:festival\nWebsite: https://www.asianpopupcinema.org/\nSource: h
@@ -611,7 +611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hebden-bridge-film-festival-2026@festival-ics.example
 SUMMARY:Hebden Bridge Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260322
 DESCRIPTION:festival\nWebsite: https://www.hebdenbridgefilmfestival.org/\nS
@@ -624,7 +624,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:series-mania-2026@festival-ics.example
 SUMMARY:Series Mania
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260327
 DESCRIPTION:festival\nWebsite: https://seriesmania.com/en/\nSource: https:/
@@ -637,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sonoma-international-film-festival-2026@festival-ics.example
 SUMMARY:Sonoma International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260329
 DESCRIPTION:festival\nWebsite: https://sonomafilmfest.org/\nSource: https:/
@@ -650,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:garden-state-film-festival-2026@festival-ics.example
 SUMMARY:Garden State Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260329
 DESCRIPTION:festival\nWebsite: https://www.gsff.org/\nSource: https://www.s
@@ -663,7 +663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:qumra-2026@festival-ics.example
 SUMMARY:Qumra
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260408
 DESCRIPTION:festival\nWebsite: https://www.dohafilm.com/en/funding-industry
@@ -676,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oska-bright-film-festival-2026@festival-ics.example
 SUMMARY:Oska Bright Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260402
 DESCRIPTION:festival\nWebsite: https://oskabright.org/\nSource: https://www
@@ -689,7 +689,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belmont-world-film-2026@festival-ics.example
 SUMMARY:Belmont World Film
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260615
 DESCRIPTION:festival\nWebsite: https://belmontworldfilm.org/international-f
@@ -702,7 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hong-kong-international-film-festival-2026@festival-ics.example
 SUMMARY:Hong Kong International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260412
 DESCRIPTION:festival\nWebsite: https://www.hkiff.org.hk/\nSource: https://w
@@ -716,7 +716,7 @@ BEGIN:VEVENT
 UID:brussels-international-fantastic-film-festival-2026@festival-ics.exampl
 	e
 SUMMARY:Brussels International Fantastic Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260418
 DESCRIPTION:festival\nWebsite: https://www.bifff.net/\nSource: https://www.
@@ -729,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:paleyfest-la-2026@festival-ics.example
 SUMMARY:PaleyFest LA
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260404
 DTEND;VALUE=DATE:20260412
 DESCRIPTION:festival\nWebsite: https://www.paleycenter.org/events/paleyfest
@@ -742,7 +742,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ofn-lgbtqia-international-film-festival-2026@festival-ics.example
 SUMMARY:OFN LGBTQIA+ International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260411
 DESCRIPTION:festival\nWebsite: https://www.onefluidnight.com/\nSource: http
@@ -755,7 +755,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-directors-new-films-2026@festival-ics.example
 SUMMARY:New Directors/New Films
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260419
 DESCRIPTION:festival\nWebsite: https://www.filmlinc.org/festivals/new-direc
@@ -768,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:boston-international-film-festival-2026@festival-ics.example
 SUMMARY:Boston International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260414
 DESCRIPTION:festival\nWebsite: https://www.bostoniff.com/\nSource: https://
@@ -781,7 +781,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cleveland-international-film-festival-2026@festival-ics.example
 SUMMARY:Cleveland International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260418
 DESCRIPTION:festival\nWebsite: https://www.clevelandfilm.org/\nSource: http
@@ -794,7 +794,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:istanbul-film-festival-2026@festival-ics.example
 SUMMARY:Istanbul Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260419
 DESCRIPTION:festival\nWebsite: https://film.iksv.org/en\nSource: https://ww
@@ -807,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:miami-film-festival-2026@festival-ics.example
 SUMMARY:Miami Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260419
 DESCRIPTION:festival\nWebsite: https://miamifilmfestival.com/\nSource: http
@@ -820,7 +820,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sixth-borough-film-festival-2026@festival-ics.example
 SUMMARY:Sixth Borough Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260412
 DESCRIPTION:festival\nWebsite: https://manhattan.edu/academics/schools-and-
@@ -835,7 +835,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sarasota-film-festival-2026@festival-ics.example
 SUMMARY:Sarasota Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260419
 DESCRIPTION:festival\nWebsite: https://www.sarasotafilmfestival.com/\nSourc
@@ -849,7 +849,7 @@ BEGIN:VEVENT
 UID:independent-days-international-film-festival-karlsruhe-2026@festival-ic
 	s.example
 SUMMARY:Independent Days International Film Festival Karlsruhe
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260419
 DESCRIPTION:festival\nWebsite: https://www.independentdays-filmfest.com/eng
@@ -862,7 +862,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bcn-film-fest-2026@festival-ics.example
 SUMMARY:BCN Film Fest
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260424
 DESCRIPTION:festival\nWebsite: https://www.bcnfilmfest.com/en\nSource: http
@@ -875,7 +875,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:milwaukee-film-festival-2026@festival-ics.example
 SUMMARY:Milwaukee Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260430
 DESCRIPTION:festival\nWebsite: https://mkefilm.org/\nSource: https://www.sc
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 UID:sands-international-film-festival-of-st-andrews-2026@festival-ics.examp
 	le
 SUMMARY:Sands: International Film Festival of St Andrews
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260419
 DESCRIPTION:festival\nWebsite: https://sands-iff.com/\nSource: https://www.
@@ -902,7 +902,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sunny-bunny-lgbtqia-film-festival-2026@festival-ics.example
 SUMMARY:Sunny Bunny LGBTQIA+ Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260424
 DESCRIPTION:festival\nWebsite: https://www.sunnybunnyqiff.com/\nSource: htt
@@ -915,7 +915,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:guadalajara-international-film-festival-2026@festival-ics.example
 SUMMARY:Guadalajara International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260425
 DESCRIPTION:festival\nWebsite: https://ficg.mx/en/\nSource: https://www.scr
@@ -928,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:visions-du-reel-2026@festival-ics.example
 SUMMARY:Visions du Réel
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260426
 DESCRIPTION:festival\nWebsite: https://www.screendaily.com/news/xisi-sofia-
@@ -943,7 +943,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:timeless-film-festival-2026@festival-ics.example
 SUMMARY:Timeless Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260427
 DESCRIPTION:festival\nWebsite: https://timelessfilmfestival.pl/en/\nSource:
@@ -956,7 +956,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:little-venice-film-festival-2026@festival-ics.example
 SUMMARY:Little Venice Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260428
 DESCRIPTION:festival\nWebsite: https://www.littlevenicefilmfestival.org/\nS
@@ -969,7 +969,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:canneseries-2026@festival-ics.example
 SUMMARY:Canneseries
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260428
 DESCRIPTION:festival\nWebsite: https://canneseries.com/en/\nSource: https:/
@@ -982,7 +982,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:san-luis-obispo-international-film-festival-2026@festival-ics.example
 SUMMARY:San Luis Obispo International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260428
 DESCRIPTION:festival\nWebsite: https://www.slofilmfest.org/\nSource: https:
@@ -995,7 +995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:saudi-film-festival-2026@festival-ics.example
 SUMMARY:Saudi Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260429
 DESCRIPTION:festival\nWebsite: https://en.saudifilmfestival.org/\nSource: h
@@ -1008,7 +1008,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hotdocs-2026@festival-ics.example
 SUMMARY:HotDocs
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260503
 DESCRIPTION:festival\nWebsite: https://hotdocs.ca/#hot-docs-festival\nSourc
@@ -1022,7 +1022,7 @@ BEGIN:VEVENT
 UID:las-palmas-de-gran-canaria-international-film-festival-2026@festival-ic
 	s.example
 SUMMARY:Las Palmas De Gran Canaria International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260503
 DESCRIPTION:festival\nWebsite: https://www.lpafilmfestival.com/\nSource: ht
@@ -1035,7 +1035,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:san-francisco-international-film-festival-2026@festival-ics.example
 SUMMARY:San Francisco International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260504
 DESCRIPTION:festival\nWebsite: https://sffilm.org/event/69th-san-francisco-
@@ -1049,7 +1049,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:far-east-film-festival-2026@festival-ics.example
 SUMMARY:Far East Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260502
 DESCRIPTION:festival\nWebsite: https://www.fareastfilm.com/eng/\nSource: ht
@@ -1062,7 +1062,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:screen-forever-2026@festival-ics.example
 SUMMARY:Screen Forever
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260430
 DESCRIPTION:festival\nWebsite: https://www.screenforever.org.au/40\nSource:
@@ -1075,7 +1075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:doc-n-roll-new-york-2026@festival-ics.example
 SUMMARY:Doc’n Roll New York
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260507
 DESCRIPTION:festival\nWebsite: https://www.docnrollfestival.com/new-york/\n
@@ -1088,7 +1088,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jeonju-international-film-festival-2026@festival-ics.example
 SUMMARY:Jeonju International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260508
 DESCRIPTION:festival\nWebsite: https://eng.jeonjufest.kr/\nSource: https://
@@ -1101,7 +1101,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:doclands-documentary-film-festival-2026@festival-ics.example
 SUMMARY:Doclands Documentary Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260503
 DESCRIPTION:festival\nWebsite: https://www.doclands.com/\nSource: https://w
@@ -1114,7 +1114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cascadia-international-women-s-film-festival-2026@festival-ics.example
 SUMMARY:Cascadia International Women’s Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260504
 DESCRIPTION:festival\nWebsite: https://cascadiafilmfest.org/\nSource: https
@@ -1127,7 +1127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-may-9-indielisboa-film-festival-2026@festival-ics.example
 SUMMARY:US - May 9 IndieLisboa Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260510
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1138,7 +1138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jfilm-festival-2026@festival-ics.example
 SUMMARY:JFilm Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260510
 DESCRIPTION:festival\nWebsite: https://filmpittsburgh.org/pages/jfilm\nSour
@@ -1151,7 +1151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:margaret-mead-film-festival-2026@festival-ics.example
 SUMMARY:Margaret Mead Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260503
 DESCRIPTION:festival\nWebsite: https://www.amnh.org/explore/margaret-mead-f
@@ -1164,7 +1164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:uk-asian-film-festival-2026@festival-ics.example
 SUMMARY:UK Asian Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260510
 DESCRIPTION:festival\nWebsite: https://www.tonguesonfire.com/\nSource: http
@@ -1177,7 +1177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wellness-film-festival-2026@festival-ics.example
 SUMMARY:Wellness Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 DESCRIPTION:festival\nWebsite: https://wellffest.com/\nSource: https://www.
@@ -1190,7 +1190,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:british-urban-film-festival-2026@festival-ics.example
 SUMMARY:British Urban Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260509
 DESCRIPTION:festival\nWebsite: https://britishurbanfilmfestival.co.uk/\nSou
@@ -1203,7 +1203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:focus-wales-film-festival-2026@festival-ics.example
 SUMMARY:Focus Wales Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260509
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1214,7 +1214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:docs-barcelona-2026@festival-ics.example
 SUMMARY:Docs Barcelona
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260517
 DESCRIPTION:festival\nWebsite: https://docsbarcelona.com/en/\nSource: https
@@ -1227,7 +1227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seattle-international-film-festival-2026@festival-ics.example
 SUMMARY:Seattle International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260517
 DESCRIPTION:festival\nWebsite: https://www.siff.net/festival\nSource: https
@@ -1240,7 +1240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sunderland-shorts-film-festival-2026@festival-ics.example
 SUMMARY:Sunderland Shorts Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260517
 DESCRIPTION:festival\nWebsite: https://sunderlandshorts.co.uk/\nSource: htt
@@ -1253,7 +1253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:marche-du-film-2026@festival-ics.example
 SUMMARY:Marché du Film
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260520
 DESCRIPTION:festival\nWebsite: https://www.marchedufilm.com/\nSource: https
@@ -1266,7 +1266,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cannes-film-festival-2026@festival-ics.example
 SUMMARY:Cannes Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260523
 DESCRIPTION:festival\nWebsite: https://www.screendaily.com/news/cristian-mu
@@ -1281,7 +1281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lanzarote-international-film-festival-2026@festival-ics.example
 SUMMARY:Lanzarote International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260523
 DESCRIPTION:festival\nWebsite: https://www.festivaldecinedelanzarote.com/\n
@@ -1294,7 +1294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-may-30-american-black-film-festival-2026@festival-ics.example
 SUMMARY:US - May 30 American Black Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260531
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1305,7 +1305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:us-june-4-docaviv-2026@festival-ics.example
 SUMMARY:US - June 4 Docaviv
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260606
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1316,7 +1316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:doxumentale-2026@festival-ics.example
 SUMMARY:Doxumentale
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://www.doxumentale.de/\nSource: https:/
@@ -1329,7 +1329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mendocino-film-festival-2026@festival-ics.example
 SUMMARY:Mendocino Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260531
 DESCRIPTION:festival\nWebsite: https://mendofilm.org/\nSource: https://www.
@@ -1342,7 +1342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:brooklyn-film-festival-2026@festival-ics.example
 SUMMARY:Brooklyn Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://www.brooklynfilmfestival.org/\nSourc
@@ -1355,7 +1355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:krakow-film-festival-2026@festival-ics.example
 SUMMARY:Krakow Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://www.krakowfilmfestival.pl/en/\nSourc
@@ -1368,7 +1368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sxsw-london-2026@festival-ics.example
 SUMMARY:SXSW London
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260606
 DESCRIPTION:festival\nWebsite: https://www.sxswlondon.com/\nSource: https:/
@@ -1381,7 +1381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bali-international-film-festival-2026@festival-ics.example
 SUMMARY:Bali International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://www.balinale.com/\nSource: https://w
@@ -1394,7 +1394,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:los-angeles-greek-film-festival-2026@festival-ics.example
 SUMMARY:Los Angeles Greek Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1405,7 +1405,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nippon-connection-film-festival-2026@festival-ics.example
 SUMMARY:Nippon Connection Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://nipponconnection.com/en/start/\nSour
@@ -1416,9 +1416,21 @@ LOCATION:Germany
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:japanese-film-festival-nippon-connection-2026@festival-ics.example
+SUMMARY:Japanese Film Festival Nippon Connection
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://nipponconnection.com/en/start/\nSour
+	ce: https://asianfilmfestivals.com/schedule/
+URL:https://nipponconnection.com/en/start/
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:kashish-pride-film-festival-2026@festival-ics.example
 SUMMARY:Kashish Pride Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://mumbaiqueerfest.com/\nSource: https:
@@ -1431,7 +1443,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sydney-film-festival-2026@festival-ics.example
 SUMMARY:Sydney Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://www.sff.org.au/\nSource: https://www
@@ -1444,7 +1456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tribeca-film-festival-2026@festival-ics.example
 SUMMARY:Tribeca Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://tribecafilm.com/\nSource: https://ww
@@ -1457,7 +1469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:europe-on-screen-2026@festival-ics.example
 SUMMARY:Europe On Screen
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://europeonscreen.org/\nSource: https:/
@@ -1468,9 +1480,33 @@ LOCATION:Indonesia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:yubari-international-fantastic-film-festival-2026@festival-ics.example
+SUMMARY:Yubari International Fantastic Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://www.yubari-fanta.com/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:https://www.yubari-fanta.com/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-human-rights-film-festival-2026@festival-ics.example
+SUMMARY:Seoul Human Rights Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:festival\nWebsite: https://hrflix.org/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://hrflix.org/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:kingston-international-film-festival-2026@festival-ics.example
 SUMMARY:Kingston International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260607
 DESCRIPTION:festival\nWebsite: https://www.kiffest.uk/\nSource: https://www
@@ -1481,9 +1517,21 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:seoul-international-eco-film-festival-2026@festival-ics.example
+SUMMARY:Seoul International Eco Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:festival\nWebsite: https://sieff.kr/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://sieff.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:seriencamp-festival-conference-2026@festival-ics.example
 SUMMARY:Seriencamp Festival & Conference
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260611
 DESCRIPTION:festival\nWebsite: https://www.seriencamp.tv/en/\nSource: https
@@ -1496,7 +1544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ecam-forum-2026@festival-ics.example
 SUMMARY:ECAM Forum
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260612
 DESCRIPTION:festival\nWebsite: https://ecamforum.es/en/\nSource: https://ww
@@ -1509,7 +1557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lighthouse-international-film-festival-2026@festival-ics.example
 SUMMARY:Lighthouse International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://www.lighthouseff.com/\nSource: https
@@ -1522,7 +1570,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provincetown-film-festival-2026@festival-ics.example
 SUMMARY:Provincetown Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://www.provincetownfilm.org/festival/\n
@@ -1535,7 +1583,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sheffield-docfest-2026@festival-ics.example
 SUMMARY:Sheffield DocFest
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260615
 DESCRIPTION:festival\nWebsite: https://www.sheffdocfest.com/\nSource: https
@@ -1548,7 +1596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dc-dox-film-festival-2026@festival-ics.example
 SUMMARY:DC/DOX Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260614
 DESCRIPTION:festival\nWebsite: https://dcdoxfest.com/\nSource: https://www.
@@ -1561,7 +1609,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:monte-carlo-television-festival-2026@festival-ics.example
 SUMMARY:Monte Carlo Television Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260616
 DESCRIPTION:festival\nWebsite: https://www.tvfestival.com/en\nSource: https
@@ -1574,7 +1622,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:shanghai-international-film-festival-2026@festival-ics.example
 SUMMARY:Shanghai International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260621
 DESCRIPTION:festival\nWebsite: https://www.siff.com/english/\nSource: https
@@ -1587,7 +1635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:transilvania-international-film-festival-2026@festival-ics.example
 SUMMARY:Transilvania International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260621
 DESCRIPTION:festival\nWebsite: https://tiff.ro/en\nSource: https://www.scre
@@ -1598,9 +1646,21 @@ LOCATION:Romania
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:changing-climate-changing-lives-film-festival-2026@festival-ics.example
+SUMMARY:Changing Climate\, Changing Lives Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260621
+DESCRIPTION:festival\nWebsite: https://www.ccclfilmfestival.com/en\nSource:
+	 https://asianfilmfestivals.com/schedule/
+URL:https://www.ccclfilmfestival.com/en
+LOCATION:Thailand
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:banff-world-media-festival-2026@festival-ics.example
 SUMMARY:BANFF World Media Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260617
 DESCRIPTION:festival\nWebsite: https://banffmediafestival.playbackonline.ca
@@ -1613,7 +1673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bentonville-film-festival-2026@festival-ics.example
 SUMMARY:Bentonville Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260621
 DESCRIPTION:festival\nWebsite: https://bentonvillefilm.org/bentonville-film
@@ -1626,7 +1686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:brighton-rocks-international-film-festival-2026@festival-ics.example
 SUMMARY:Brighton Rocks International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260621
 DESCRIPTION:festival\nWebsite: https://www.rocksfestivals.com/briff.html\nS
@@ -1639,7 +1699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:slano-film-days-2026@festival-ics.example
 SUMMARY:Slano Film Days
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260620
 DESCRIPTION:festival\nWebsite: https://slanofilmdays.hr/en/home\nSource: ht
@@ -1652,7 +1712,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:docs-ireland-festival-market-2026@festival-ics.example
 SUMMARY:Docs Ireland Festival & Market
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260621
 DESCRIPTION:festival\nWebsite: https://docsireland.ie/\nSource: https://www
@@ -1665,7 +1725,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nantucket-film-festival-2026@festival-ics.example
 SUMMARY:Nantucket Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260622
 DESCRIPTION:festival\nWebsite: https://nantucketfilmfestival.org/nff2026/\n
@@ -1678,7 +1738,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:raindance-film-festival-2026@festival-ics.example
 SUMMARY:Raindance Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260626
 DESCRIPTION:festival\nWebsite: https://raindance.org/festival/\nSource: htt
@@ -1691,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oakville-festivals-of-film-and-art-2026@festival-ics.example
 SUMMARY:Oakville Festivals of Film and Art
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260627
 DESCRIPTION:festival\nWebsite: https://offa.ca/\nSource: https://www.screen
@@ -1705,7 +1765,7 @@ BEGIN:VEVENT
 UID:san-francisco-international-lgbtq-film-festival-2026@festival-ics.examp
 	le
 SUMMARY:San Francisco International LGBTQ+ Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260627
 DESCRIPTION:festival\nWebsite: https://www.frameline.org/festival\nSource: 
@@ -1716,9 +1776,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:japan-film-fest-hamburg-2026@festival-ics.example
+SUMMARY:Japan Film Fest Hamburg
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260621
+DESCRIPTION:festival\nWebsite: https://jffh.de/en\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://jffh.de/en
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:silvervox-film-music-festival-2026@festival-ics.example
 SUMMARY:SilverVox Film & Music Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260621
 DESCRIPTION:festival\nWebsite: https://silvervoxfest.com/\nSource: https://
@@ -1732,7 +1804,7 @@ BEGIN:VEVENT
 UID:sons-of-the-desert-convention-laurel-and-hardy-society-2026@festival-ic
 	s.example
 SUMMARY:Sons Of The Desert Convention — Laurel and Hardy Society
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260625
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1743,7 +1815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:annecy-international-animation-film-festival-2026@festival-ics.example
 SUMMARY:Annecy International Animation Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260627
 DESCRIPTION:festival\nWebsite: https://www.screendaily.com/news/annecy-film
@@ -1758,7 +1830,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mediterrane-film-festival-2026@festival-ics.example
 SUMMARY:Mediterrane Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260628
 DESCRIPTION:festival\nWebsite: https://mediterrane.com/\nSource: https://ww
@@ -1771,7 +1843,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cineeurope-2026@festival-ics.example
 SUMMARY:CineEurope
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260625
 DESCRIPTION:festival\nWebsite: https://filmexpos.com/cineeurope/\nSource: h
@@ -1784,7 +1856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:australia-new-zealand-june-21-july-26-mifa-2026@festival-ics.example
 SUMMARY:Australia-New Zealand - June 21-July 26 MIFA
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260626
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -1795,7 +1867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:biarritz-film-festival-nouvelles-vagues-2026@festival-ics.example
 SUMMARY:Biarritz Film Festival Nouvelles Vagues
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260628
 DESCRIPTION:festival\nWebsite: https://www.nouvelles-vagues.org/\nSource: h
@@ -1806,9 +1878,21 @@ LOCATION:France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:austin-asian-american-film-festival-2026@festival-ics.example
+SUMMARY:Austin Asian American Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: https://www.aaafilmfest.org/\nSource: https:
+	//asianfilmfestivals.com/schedule/
+URL:https://www.aaafilmfest.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:scad-lacoste-film-festival-2026@festival-ics.example
 SUMMARY:SCAD Lacoste Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260627
 DESCRIPTION:festival\nWebsite: https://www.scad.edu/event/2026-06-25-2026-s
@@ -1821,7 +1905,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nepal-america-international-film-festival-2026@festival-ics.example
 SUMMARY:Nepal America International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260628
 DESCRIPTION:festival\nWebsite: https://nafilmsociety.org/\nSource: https://
@@ -1832,9 +1916,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:chuncheon-film-festival-2026@festival-ics.example
+SUMMARY:Chuncheon Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: http://ccff.or.kr/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:http://ccff.or.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:filmfest-munich-2026@festival-ics.example
 SUMMARY:FilmFest Munich
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260705
 DESCRIPTION:festival\nWebsite: https://www.filmfest-muenchen.de/en/\nSource
@@ -1845,9 +1941,33 @@ LOCATION:Germany
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:korea-queer-film-festival-2026@festival-ics.example
+SUMMARY:Korea Queer Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: https://www.kqff.co.kr/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.kqff.co.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taipei-film-festival-2026@festival-ics.example
+SUMMARY:Taipei Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:festival\nWebsite: https://www.taipeiff.taipei/en\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://www.taipeiff.taipei/en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:muslim-international-film-festival-2026@festival-ics.example
 SUMMARY:Muslim International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260705
 DESCRIPTION:festival\nWebsite: https://themiff.net/\nSource: https://www.sc
@@ -1858,9 +1978,21 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bucheon-international-fantastic-film-festival-2026@festival-ics.example
+SUMMARY:Bucheon International Fantastic Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:festival\nWebsite: https://www.bifan.kr/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://www.bifan.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:karlovy-vary-international-film-festival-2026@festival-ics.example
 SUMMARY:Karlovy Vary International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260711
 DESCRIPTION:festival\nWebsite: https://www.kviff.com/en/homepage\nSource: h
@@ -1873,7 +2005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fid-marseille-2026@festival-ics.example
 SUMMARY:FID Marseille
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260712
 DESCRIPTION:festival\nWebsite: https://fidmarseille.org/en\nSource: https:/
@@ -1886,7 +2018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:galway-film-fleadh-2026@festival-ics.example
 SUMMARY:Galway Film Fleadh
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260712
 DESCRIPTION:festival\nWebsite: https://www.galwayfilmfleadh.com/\nSource: h
@@ -1897,9 +2029,45 @@ LOCATION:Ireland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:film-festival-for-women-s-rights-2026@festival-ics.example
+SUMMARY:Film Festival for Women’s Rights
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:festival\nWebsite: https://www.fiwom.org/eng/main/main.html\nSo
+	urce: https://asianfilmfestivals.com/schedule/
+URL:https://www.fiwom.org/eng/main/main.html
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:busan-international-kids-youth-film-festival-2026@festival-ics.example
+SUMMARY:Busan International Kids & Youth Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260714
+DESCRIPTION:festival\nWebsite: https://www.biky.or.kr/eng/\nSource: https:/
+	/asianfilmfestivals.com/schedule/
+URL:https://www.biky.or.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:japan-cuts-2026@festival-ics.example
+SUMMARY:Japan Cuts
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260718
+DESCRIPTION:festival\nWebsite: https://japansociety.org/film/japancuts/\nSo
+	urce: https://asianfilmfestivals.com/schedule/
+URL:https://japansociety.org/film/japancuts/
+LOCATION:United States
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jerusalem-film-festival-2026@festival-ics.example
 SUMMARY:Jerusalem Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260719
 DESCRIPTION:festival\nWebsite: https://jff.org.il/en\nSource: https://www.s
@@ -1912,7 +2080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:london-indian-film-festival-2026@festival-ics.example
 SUMMARY:London Indian Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260719
 DESCRIPTION:festival\nWebsite: https://londonindianfilmfestival.co.uk/\nSou
@@ -1925,7 +2093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:walla-walla-movie-crush-2026@festival-ics.example
 SUMMARY:Walla Walla Movie Crush
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260712
 DESCRIPTION:festival\nWebsite: https://www.themoviecrush.com/\nSource: http
@@ -1938,7 +2106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-york-asian-film-festival-2026@festival-ics.example
 SUMMARY:New York Asian Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260726
 DESCRIPTION:festival\nWebsite: https://www.nyaff.org/\nSource: https://www.
@@ -1951,7 +2119,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:golden-apricot-international-film-festival-2026@festival-ics.example
 SUMMARY:Golden Apricot International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260719
 DESCRIPTION:festival\nWebsite: https://gaiff.am/\nSource: https://www.scree
@@ -1962,10 +2130,22 @@ LOCATION:Armenia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nits-festival-of-oriental-cinema-2026@festival-ics.example
+SUMMARY:Nits Festival of Oriental Cinema
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:festival\nWebsite: https://cinemaoriental.com/en/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://cinemaoriental.com/en/
+LOCATION:Spain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:boulder-environmental-nature-outdoors-film-festival-2026@festival-ics.e
 	xample
 SUMMARY:Boulder Environmental Nature Outdoors Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260719
 DESCRIPTION:festival\nWebsite: https://www.boulderenoff.org/\nSource: https
@@ -1978,7 +2158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:waco-independent-film-festival-2026@festival-ics.example
 SUMMARY:Waco Independent Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260719
 DESCRIPTION:festival\nWebsite: https://wacoindie.com/\nSource: https://www.
@@ -1991,7 +2171,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fantasia-international-film-festival-2026@festival-ics.example
 SUMMARY:Fantasia International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260802
 DESCRIPTION:festival\nWebsite: https://fantasiafestival.com/en\nSource: htt
@@ -2004,7 +2184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:malaysia-international-film-festival-2026@festival-ics.example
 SUMMARY:Malaysia International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260725
 DESCRIPTION:festival\nWebsite: https://www.miffest.com.my/\nSource: https:/
@@ -2015,9 +2195,21 @@ LOCATION:Malaysia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mini-film-festival-2026@festival-ics.example
+SUMMARY:Mini Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:festival\nWebsite: https://www.instagram.com/minifilmfestival/?
+	hl=en\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.instagram.com/minifilmfestival/?hl=en
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:burgas-international-film-festival-2026@festival-ics.example
 SUMMARY:Burgas International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260725
 DESCRIPTION:festival\nWebsite: https://burgasfilmfest.com/en/\nSource: http
@@ -2030,7 +2222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cinema-rediscovered-2026@festival-ics.example
 SUMMARY:Cinema Rediscovered
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260726
 DESCRIPTION:festival\nWebsite: https://www.watershed.co.uk/cinema-rediscove
@@ -2043,7 +2235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:comic-con-2026@festival-ics.example
 SUMMARY:Comic-Con
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260726
 DESCRIPTION:festival\nWebsite: https://www.comic-con.org/\nSource: https://
@@ -2056,7 +2248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:future-of-film-showcase-2026@festival-ics.example
 SUMMARY:Future Of Film Showcase
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260726
 DESCRIPTION:festival\nWebsite: https://www.fofs.ca/\nSource: https://www.sc
@@ -2069,7 +2261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-horizons-international-film-festival-2026@festival-ics.example
 SUMMARY:New Horizons International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260802
 DESCRIPTION:festival\nWebsite: https://www.nowehoryzonty.pl/?lang=en\nSourc
@@ -2080,9 +2272,45 @@ LOCATION:Poland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:asian-film-festival-of-dallas-2026@festival-ics.example
+SUMMARY:Asian Film Festival of Dallas
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:festival\nWebsite: https://asianfilmdallas.org/our-mission\nSou
+	rce: https://asianfilmfestivals.com/schedule/
+URL:https://asianfilmdallas.org/our-mission
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:experimental-film-and-video-festival-in-seoul-2026@festival-ics.example
+SUMMARY:Experimental Film and Video Festival in Seoul
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260730
+DESCRIPTION:festival\nWebsite: https://ex-is.org/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://ex-is.org/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taiwan-film-festival-in-australia-2026@festival-ics.example
+SUMMARY:Taiwan Film Festival in Australia
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:festival\nWebsite: https://www.taiwanfilmfestival.org.au/\nSour
+	ce: https://asianfilmfestivals.com/schedule/
+URL:https://www.taiwanfilmfestival.org.au/
+LOCATION:Australia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:woods-hole-film-festival-2026@festival-ics.example
 SUMMARY:Woods Hole Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260801
 DESCRIPTION:festival\nWebsite: https://woodsholefilmfestival.org/\nSource: 
@@ -2096,7 +2324,7 @@ BEGIN:VEVENT
 UID:whanau-marama-new-zealand-international-film-festival-2026@festival-ics
 	.example
 SUMMARY:Whānau Mārama: New Zealand International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260909
 DESCRIPTION:festival\nWebsite: https://www.nziff.co.nz/2026/nziff-2026/\nSo
@@ -2109,7 +2337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:provence-arts-film-festival-2026@festival-ics.example
 SUMMARY:Provence Arts Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260801
 DESCRIPTION:festival\nWebsite: https://provencearts.com/en/\nSource: https:
@@ -2122,7 +2350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:oak-cliff-film-festival-2026@festival-ics.example
 SUMMARY:Oak Cliff Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260802
 DESCRIPTION:festival\nWebsite: https://www.filmoakcliff.com/\nSource: https
@@ -2133,9 +2361,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:asian-american-international-film-festival-2026@festival-ics.example
+SUMMARY:Asian American International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:festival\nWebsite: https://www.asiancinevision.org/aaiff/\nSour
+	ce: https://asianfilmfestivals.com/schedule/
+URL:https://www.asiancinevision.org/aaiff/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:membrana-film-festival-2026@festival-ics.example
 SUMMARY:Membrana Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 DESCRIPTION:festival\nWebsite: https://membranapictures.com/membrana-film-f
@@ -2148,7 +2388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:locarno-film-festival-2026@festival-ics.example
 SUMMARY:Locarno Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260815
 DESCRIPTION:festival\nWebsite: https://www.locarnofestival.ch/home.html\nSo
@@ -2161,7 +2401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:melbourne-international-film-festival-2026@festival-ics.example
 SUMMARY:Melbourne International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260823
 DESCRIPTION:festival\nWebsite: https://miff.com.au/\nSource: https://www.sc
@@ -2172,9 +2412,21 @@ LOCATION:Australia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bengaluru-international-short-film-festival-2026@festival-ics.example
+SUMMARY:Bengaluru International Short Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260816
+DESCRIPTION:festival\nWebsite: https://bisff.in/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://bisff.in/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:chichester-international-film-festival-2026@festival-ics.example
 SUMMARY:Chichester International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260823
 DESCRIPTION:festival\nWebsite: https://chichesterfilmfestival.co.uk/\nSourc
@@ -2187,7 +2439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-cinema-nyc-2026@festival-ics.example
 SUMMARY:Festival Of Cinema NYC
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260816
 DESCRIPTION:festival\nWebsite: https://www.festivalofcinemanyc.com/\nSource
@@ -2201,7 +2453,7 @@ BEGIN:VEVENT
 UID:martha-s-vineyard-african-american-film-festival-2026@festival-ics.exam
 	ple
 SUMMARY:Martha’s Vineyard African-American Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260815
 DESCRIPTION:festival\nWebsite: https://www.mvaaff.com/\nSource: https://www
@@ -2212,9 +2464,33 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jeongdongjin-independent-film-festival-2026@festival-ics.example
+SUMMARY:Jeongdongjin Independent Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+DESCRIPTION:festival\nWebsite: https://jiff.kr/\nSource: https://asianfilmf
+	estivals.com/schedule/
+URL:https://jiff.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:international-documentary-short-film-festival-2026@festival-ics.example
+SUMMARY:International Documentary & Short Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260815
+DESCRIPTION:festival\nWebsite: https://dokufest.com/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://dokufest.com/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:edinburgh-international-film-festival-2026@festival-ics.example
 SUMMARY:Edinburgh International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260819
 DESCRIPTION:festival\nWebsite: https://www.edfilmfest.org/\nSource: https:/
@@ -2227,7 +2503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sarajevo-film-festival-2026@festival-ics.example
 SUMMARY:Sarajevo Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260821
 DESCRIPTION:festival\nWebsite: https://www.sff.ba/en\nSource: https://www.s
@@ -2238,9 +2514,31 @@ LOCATION:Bosnia and Herzegovina
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:binisaya-film-festival-2026@festival-ics.example
+SUMMARY:Binisaya Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nSource: https://asianfilmfestivals.com/schedule/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hiroshima-animation-season-2026@festival-ics.example
+SUMMARY:Hiroshima Animation Season
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nWebsite: https://animation.hiroshimafest.org/en/\nSou
+	rce: https://asianfilmfestivals.com/schedule/
+URL:https://animation.hiroshimafest.org/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:august-sunrise-film-festival-2026@festival-ics.example
 SUMMARY:August Sunrise Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260823
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -2249,9 +2547,21 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:seoul-international-women-s-film-festival-2026@festival-ics.example
+SUMMARY:Seoul International Women’s Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260826
+DESCRIPTION:festival\nWebsite: https://siwff.or.kr/eng/\nSource: https://as
+	ianfilmfestivals.com/schedule/
+URL:https://siwff.or.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:counties-independent-film-festival-2026@festival-ics.example
 SUMMARY:Counties Independent Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260823
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -2260,10 +2570,34 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cheongju-international-short-film-festival-2026@festival-ics.example
+SUMMARY:Cheongju International Short Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:festival\nWebsite: https://cjiff.co.kr/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://cjiff.co.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-newmedia-festival-2026@festival-ics.example
+SUMMARY:Seoul International NewMedia Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260827
+DESCRIPTION:festival\nWebsite: https://www.nemaf.net/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.nemaf.net/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:norwegian-international-film-festival-haugesund-2026@festival-ics.examp
 	le
 SUMMARY:Norwegian International Film Festival Haugesund
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260828
 DESCRIPTION:festival\nWebsite: https://www.filmfestivalen.no/\nSource: http
@@ -2274,9 +2608,45 @@ LOCATION:Norway
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ebs-international-documentary-festival-2026@festival-ics.example
+SUMMARY:EBS International Documentary Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:festival\nWebsite: https://www.eidf.co.kr/eng\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://www.eidf.co.kr/eng
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:docs-by-the-sea-2026@festival-ics.example
+SUMMARY:Docs by The Sea
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260909
+DESCRIPTION:festival\nWebsite: https://docsbythesea.org/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://docsbythesea.org/
+LOCATION:| Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:raintown-film-festival-2026@festival-ics.example
+SUMMARY:Raintown Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260930
+DESCRIPTION:festival\nWebsite: https://www.instagram.com/raintownfilmfestiv
+	al/?hl=en\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.instagram.com/raintownfilmfestival/?hl=en
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:september-venice-international-film-festival-2026@festival-ics.example
 SUMMARY:September Venice International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260912
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -2285,9 +2655,33 @@ LOCATION:Italy
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:aichi-international-women-s-film-festival-2026@festival-ics.example
+SUMMARY:Aichi International Women’s Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:festival\nWebsite: https://www.aiwff.com/2026/en/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://www.aiwff.com/2026/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korean-film-festival-in-barcelona-2026@festival-ics.example
+SUMMARY:Korean Film Festival in Barcelona
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:festival\nWebsite: https://koreanfilmfestivalbcn.com/\nSource: 
+	https://asianfilmfestivals.com/schedule/
+URL:https://koreanfilmfestivalbcn.com/
+LOCATION:Spain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:telluride-film-festival-2026@festival-ics.example
 SUMMARY:Telluride Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260907
 DESCRIPTION:festival\nWebsite: https://www.telluridefilmfestival.org/\nSour
@@ -2298,9 +2692,34 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:persons-with-disabilities-film-festival-rescheduled-tba-2026@festival-i
+	cs.example
+SUMMARY:Persons with Disabilities Film Festival (rescheduled tba)
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260907
+DESCRIPTION:festival\nWebsite: https://www.pdff.or.kr/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.pdff.or.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jecheon-international-music-film-festival-2026@festival-ics.example
+SUMMARY:Jecheon International Music & Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260909
+DESCRIPTION:festival\nWebsite: https://jimff.org/eng/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://jimff.org/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:brussels-international-film-festival-2026@festival-ics.example
 SUMMARY:Brussels International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260912
 DESCRIPTION:festival\nWebsite: https://briff.be/en/\nSource: https://www.sc
@@ -2311,9 +2730,33 @@ LOCATION:Belgium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:vancouver-taiwanese-film-festival-2026@festival-ics.example
+SUMMARY:Vancouver Taiwanese Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DESCRIPTION:festival\nWebsite: https://www.twff.ca/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://www.twff.ca/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hong-kong-lesbian-and-gay-film-festival-2026@festival-ics.example
+SUMMARY:Hong Kong Lesbian and Gay Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260919
+DESCRIPTION:festival\nWebsite: https://www.hklgff.hk/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.hklgff.hk/
+LOCATION:| Hong Kong
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:martha-s-vineyard-international-film-festival-2026@festival-ics.example
 SUMMARY:Martha’s Vineyard International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260913
 DESCRIPTION:festival\nWebsite: https://mvfilmsociety.com/festivals/marthas-
@@ -2328,7 +2771,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dmz-international-documentary-film-festival-2026@festival-ics.example
 SUMMARY:DMZ International Documentary Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260916
 DESCRIPTION:festival\nWebsite: https://dmzdocs.com/eng/\nSource: https://ww
@@ -2341,7 +2784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tiff-the-market-2026@festival-ics.example
 SUMMARY:TIFF: The Market
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260916
 DESCRIPTION:festival\nWebsite: https://tiff.net/themarket\nSource: https://
@@ -2354,7 +2797,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:toronto-international-film-festival-2026@festival-ics.example
 SUMMARY:Toronto International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260920
 DESCRIPTION:festival\nWebsite: https://tiff.net/\nSource: https://www.scree
@@ -2365,9 +2808,69 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:taiwan-film-festival-of-boson-2026@festival-ics.example
+SUMMARY:Taiwan Film Festival of Boson
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:festival\nWebsite: https://taiwanfilmfest.org/\nSource: https:/
+	/asianfilmfestivals.com/schedule/
+URL:https://taiwanfilmfest.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:seoul-international-children-s-film-festival-2026@festival-ics.example
+SUMMARY:Seoul International Children’s Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260915
+DESCRIPTION:festival\nWebsite: https://www.sicff.kr/eng/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.sicff.kr/eng/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dc-south-asian-film-festival-2026@festival-ics.example
+SUMMARY:DC South Asian Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:festival\nWebsite: https://dcsaaci.org/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://dcsaaci.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:minikino-film-week-2026@festival-ics.example
+SUMMARY:Minikino Film Week
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260918
+DESCRIPTION:festival\nWebsite: https://minikino.org/filmweek/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://minikino.org/filmweek/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kota-kinabalu-international-film-festival-2026@festival-ics.example
+SUMMARY:Kota Kinabalu International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260919
+DESCRIPTION:festival\nWebsite: https://www.kkiff.com/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.kkiff.com/
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:atlantic-international-film-festival-2026@festival-ics.example
 SUMMARY:Atlantic International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260923
 DESCRIPTION:festival\nWebsite: https://atlanticfilmfestival.ca/\nSource: ht
@@ -2380,7 +2883,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:boston-film-festival-2026@festival-ics.example
 SUMMARY:Boston Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
 DESCRIPTION:festival\nWebsite: https://bostonfilmfestival.org/\nSource: htt
@@ -2393,7 +2896,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:camden-international-film-festival-2026@festival-ics.example
 SUMMARY:Camden International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260920
 DESCRIPTION:festival\nWebsite: https://pointsnorthinstitute.org/ciff/\nSour
@@ -2407,7 +2910,7 @@ BEGIN:VEVENT
 UID:helsinki-international-film-festival-love-and-anarchy-2026@festival-ics
 	.example
 SUMMARY:Helsinki International Film Festival - Love And Anarchy
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260927
 DESCRIPTION:festival\nWebsite: https://hiff.fi/en/\nSource: https://www.scr
@@ -2418,9 +2921,34 @@ LOCATION:Finland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:chicago-south-asian-film-festival-2026@festival-ics.example
+SUMMARY:Chicago South Asian Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:festival\nWebsite: https://www.csaff.org/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.csaff.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korea-independent-animation-film-festival-indie-anifest-2026@festival-i
+	cs.example
+SUMMARY:Korea Independent Animation Film Festival Indie-Anifest
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:festival\nWebsite: https://www.ianifest.org/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.ianifest.org/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:climate-film-festival-2026@festival-ics.example
 SUMMARY:Climate Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
 DESCRIPTION:festival\nWebsite: https://www.climatefilmfest.com/\nSource: ht
@@ -2433,7 +2961,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:prague-independent-film-festival-2026@festival-ics.example
 SUMMARY:Prague Independent Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260920
 DESCRIPTION:festival\nWebsite: https://www.prague-film-festival.com/\nSourc
@@ -2446,7 +2974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:san-sebastian-international-film-festival-2026@festival-ics.example
 SUMMARY:San Sebastian International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260926
 DESCRIPTION:festival\nWebsite: https://www.sansebastianfestival.com/in/\nSo
@@ -2459,7 +2987,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:women-x-film-festival-2026@festival-ics.example
 SUMMARY:Women X Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260920
 DESCRIPTION:festival\nWebsite: https://www.riannepictures.com/womenx\nSourc
@@ -2470,9 +2998,45 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:japan-film-festival-los-angeles-2026@festival-ics.example
+SUMMARY:Japan Film Festival Los Angeles
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260912
+DESCRIPTION:festival\nWebsite: https://jffla.org/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://jffla.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:gyeonggi-film-school-festival-2026@festival-ics.example
+SUMMARY:Gyeonggi Film School Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:festival\nWebsite: https://www.gfsf.co.kr/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.gfsf.co.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ulju-mountain-film-festival-2026@festival-ics.example
+SUMMARY:Ulju Mountain Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:festival\nWebsite: https://www.umff.kr/eng/default.asp\nSource:
+	 https://asianfilmfestivals.com/schedule/
+URL:https://www.umff.kr/eng/default.asp
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:cinefest-sudbury-international-film-festival-2026@festival-ics.example
 SUMMARY:Cinefest Sudbury International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260927
 DESCRIPTION:festival\nWebsite: https://cinefest.com/\nSource: https://www.s
@@ -2483,10 +3047,34 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:image-forum-festival-tokyo-2026@festival-ics.example
+SUMMARY:Image Forum Festival Tokyo
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260925
+DESCRIPTION:festival\nWebsite: https://www.imageforumfestival.com/2026/en/b
+	osyu/gaiyo/\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.imageforumfestival.com/2026/en/bosyu/gaiyo/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nara-international-film-festival-2026@festival-ics.example
+SUMMARY:Nara International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:festival\nWebsite: https://nara-iff.jp/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://nara-iff.jp/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:us-september-19-content-christian-media-conference-2026@festival-ics.ex
 	ample
 SUMMARY:US - September 19 Content Christian Media Conference
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260925
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -2497,7 +3085,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:encounters-film-festival-2026@festival-ics.example
 SUMMARY:Encounters Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260927
 DESCRIPTION:festival\nWebsite: https://www.encounters.film/\nSource: https:
@@ -2510,7 +3098,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:calabasas-film-festival-2026@festival-ics.example
 SUMMARY:Calabasas Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260927
 DESCRIPTION:festival\nWebsite: https://calabasasfilmfestival.com/\nSource: 
@@ -2523,7 +3111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:finnish-film-affair-2026@festival-ics.example
 SUMMARY:Finnish Film Affair
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260925
 DESCRIPTION:festival\nWebsite: https://hiffindustry.fi/\nSource: https://ww
@@ -2536,7 +3124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:pingyao-international-film-festival-2026@festival-ics.example
 SUMMARY:Pingyao International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260929
 DESCRIPTION:festival\nWebsite: https://www.pyiffestival.com/\nSource: https
@@ -2547,9 +3135,21 @@ LOCATION:China
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:camera-japan-festival-2026@festival-ics.example
+SUMMARY:Camera Japan Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:festival\nWebsite: https://camerajapan.nl/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://camerajapan.nl/
+LOCATION:Netherlands
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:filmfest-hamburg-2026@festival-ics.example
 SUMMARY:Filmfest Hamburg
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261003
 DESCRIPTION:festival\nWebsite: https://www.filmfesthamburg.de/en/\nSource: 
@@ -2562,7 +3162,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:reyjavik-international-film-festival-2026@festival-ics.example
 SUMMARY:Reyjavik International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:festival\nWebsite: https://riff.is/en/\nSource: https://www.scr
@@ -2575,7 +3175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zurich-film-festival-2026@festival-ics.example
 SUMMARY:Zurich Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:festival\nWebsite: https://zff.com/en\nSource: https://www.scre
@@ -2586,9 +3186,21 @@ LOCATION:Switzerland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:taiwan-film-festival-berlin-2026@festival-ics.example
+SUMMARY:Taiwan Film Festival Berlin
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:festival\nWebsite: https://tffberlin.de/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://tffberlin.de/
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:new-york-film-festival-2026@festival-ics.example
 SUMMARY:New York Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261012
 DESCRIPTION:festival\nWebsite: https://www.filmlinc.org/nyff/\nSource: http
@@ -2599,9 +3211,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:odyssey-chinese-cinema-season-2026@festival-ics.example
+SUMMARY:Odyssey Chinese Cinema Season
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261010
+DESCRIPTION:festival\nWebsite: https://www.odysseychinesecinema.uk/\nSource
+	: https://asianfilmfestivals.com/schedule/
+URL:https://www.odysseychinesecinema.uk/
+LOCATION:UK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:iberseries-2026@festival-ics.example
 SUMMARY:IberSeries
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261002
 DESCRIPTION:festival\nWebsite: https://iberseriesplatinoindustria.com/\nSou
@@ -2612,10 +3236,24 @@ LOCATION:Spain
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:arkipel-jakarta-international-documentary-experimental-film-festival-20
+	26@festival-ics.example
+SUMMARY:ARKIPEL Jakarta International Documentary & Experimental Film Festi
+	val
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:festival\nWebsite: https://arkipel.id/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://arkipel.id/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:uk-september-29-bolton-international-film-festival-2026@festival-ics.ex
 	ample
 SUMMARY:UK - September 29 Bolton International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -2627,7 +3265,7 @@ BEGIN:VEVENT
 UID:festival-do-rio-rio-de-janeiro-international-film-festival-2026@festiva
 	l-ics.example
 SUMMARY:Festival do Rio - Rio de Janeiro International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://www.festivaldorio.com.br/\nSource: h
@@ -2640,7 +3278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mill-valley-film-festival-2026@festival-ics.example
 SUMMARY:Mill Valley Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://www.mvff.com/\nSource: https://www.s
@@ -2653,7 +3291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nlwave-2026@festival-ics.example
 SUMMARY:NLWave
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 DESCRIPTION:festival\nWebsite: https://www.filmfonds.nl/en\nSource: https:/
@@ -2666,7 +3304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:vancouver-international-film-festival-2026@festival-ics.example
 SUMMARY:Vancouver International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://viff.org/festival/viff-2026/\nSource
@@ -2677,9 +3315,22 @@ LOCATION:Canada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:mosaic-international-south-asian-film-festival-2026@festival-ics.exampl
+	e
+SUMMARY:Mosaic International South Asian Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:festival\nWebsite: https://www.misaff.com/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://www.misaff.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:hamptons-international-film-festival-2026@festival-ics.example
 SUMMARY:Hamptons International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261012
 DESCRIPTION:festival\nWebsite: https://hamptonsfilmfest.org/\nSource: https
@@ -2692,7 +3343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adelaide-independent-film-festival-2026@festival-ics.example
 SUMMARY:Adelaide Independent Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:festival\nWebsite: https://auteursforum.com/aiff\nSource: https
@@ -2705,7 +3356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:busan-international-film-festival-2026@festival-ics.example
 SUMMARY:Busan International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261015
 DESCRIPTION:festival\nWebsite: https://www.biff.kr/eng/\nSource: https://ww
@@ -2718,7 +3369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jakarta-world-cinema-2026@festival-ics.example
 SUMMARY:Jakarta World Cinema
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261107
 DESCRIPTION:festival\nWebsite: https://jakartaworldcinema.com/\nSource: htt
@@ -2731,7 +3382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bfi-london-film-festival-2026@festival-ics.example
 SUMMARY:BFI London Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://whatson.bfi.org.uk/lff/Online/defaul
@@ -2746,7 +3397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dinard-british-irish-film-festival-2026@festival-ics.example
 SUMMARY:Dinard British & Irish Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://www.dinardfestivaldufilm.fr/en/\nSou
@@ -2759,7 +3410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:film-fest-gent-2026@festival-ics.example
 SUMMARY:Film Fest Gent
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://www.filmfestival.be/en\nSource: http
@@ -2772,7 +3423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:leiden-international-film-festival-2026@festival-ics.example
 SUMMARY:Leiden International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://www.liff.nl/en/\nSource: https://www
@@ -2785,7 +3436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-york-greek-film-expo-2026@festival-ics.example
 SUMMARY:New York Greek Film Expo
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://hellenicfilmsociety.org/\nSource: ht
@@ -2798,7 +3449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sitges-film-festival-2026@festival-ics.example
 SUMMARY:Sitges Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://sitgesfilmfestival.com/en/festival/s
@@ -2809,9 +3460,21 @@ LOCATION:Spain
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:viet-film-fest-2026@festival-ics.example
+SUMMARY:Viet Film Fest
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:festival\nWebsite: https://www.vietfilmfest.com/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:https://www.vietfilmfest.com/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:durban-filmmart-2026@festival-ics.example
 SUMMARY:Durban FilmMart
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
 DESCRIPTION:festival\nWebsite: https://durbanfilmmart.co.za/\nSource: https
@@ -2824,7 +3487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hot-springs-documentary-film-festival-2026@festival-ics.example
 SUMMARY:Hot Springs Documentary Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261017
 DESCRIPTION:festival\nWebsite: https://hsdfi.org/\nSource: https://www.scre
@@ -2837,7 +3500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sydney-science-fiction-film-festival-2026@festival-ics.example
 SUMMARY:Sydney Science Fiction Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261011
 DESCRIPTION:festival\nWebsite: https://www.sydneysciencefictionfilmfestival
@@ -2850,7 +3513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:warsaw-international-film-festival-2026@festival-ics.example
 SUMMARY:Warsaw International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://wff.pl/\nSource: https://www.screend
@@ -2861,9 +3524,33 @@ LOCATION:Poland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ifva-film-festival-2026@festival-ics.example
+SUMMARY:IFVA Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:festival\nWebsite: https://ifva.com/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://ifva.com/
+LOCATION:| Hong Kong
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kaohsiung-film-festival-2026@festival-ics.example
+SUMMARY:Kaohsiung Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:festival\nWebsite: https://www.kff.tw/en\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://www.kff.tw/en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:asian-contents-film-market-2026@festival-ics.example
 SUMMARY:Asian Contents & Film Market
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261013
 DESCRIPTION:festival\nWebsite: https://www.acfm.kr/eng/\nSource: https://ww
@@ -2874,9 +3561,21 @@ LOCATION:South Korea
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:taichung-international-animation-festival-2026@festival-ics.example
+SUMMARY:Taichung International Animation Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261018
+DESCRIPTION:festival\nWebsite: https://twtiaf.com/2025/index.php\nSource: h
+	ttps://asianfilmfestivals.com/schedule/
+URL:https://twtiaf.com/2025/index.php
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:festival-du-nouveau-cinema-of-montreal-2026@festival-ics.example
 SUMMARY:Festival du nouveau cinéma of Montreal
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261026
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -2887,7 +3586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:la-roche-sur-yon-international-film-festival-2026@festival-ics.example
 SUMMARY:La Roche-sur-Yon International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://www.fif-85.com/\nSource: https://www
@@ -2900,7 +3599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:mipcom-2026@festival-ics.example
 SUMMARY:MIPCOM
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261015
 DESCRIPTION:festival\nWebsite: https://www.mipcom.com/en-gb.html\nSource: h
@@ -2911,9 +3610,21 @@ LOCATION:France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:tasveer-film-festival-2026@festival-ics.example
+SUMMARY:Tasveer Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261018
+DESCRIPTION:festival\nWebsite: https://tasveer.org/tasveer-film-festival/\n
+	Source: https://asianfilmfestivals.com/schedule/
+URL:https://tasveer.org/tasveer-film-festival/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:adelaide-film-festival-2026@festival-ics.example
 SUMMARY:Adelaide Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://www.adelaidefilmfestival.org/\nSourc
@@ -2926,7 +3637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bergen-international-film-festival-2026@festival-ics.example
 SUMMARY:Bergen International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261022
 DESCRIPTION:festival\nWebsite: https://www.biff.no/\nSource: https://www.sc
@@ -2939,7 +3650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:chelsea-film-festival-2026@festival-ics.example
 SUMMARY:Chelsea Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://chelseafilm.org/\nSource: https://ww
@@ -2952,7 +3663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:chicago-international-film-festival-2026@festival-ics.example
 SUMMARY:Chicago International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://www.chicagofilmfestival.com/\nSource
@@ -2965,7 +3676,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:santa-fe-international-film-festival-2026@festival-ics.example
 SUMMARY:Santa Fe International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261019
 DESCRIPTION:festival\nWebsite: https://santafe.film/\nSource: https://www.s
@@ -2978,7 +3689,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:woodstock-film-festival-2026@festival-ics.example
 SUMMARY:Woodstock Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://woodstockfilmfestival.org/\nSource: 
@@ -2991,7 +3702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kerry-international-film-festival-2026@festival-ics.example
 SUMMARY:Kerry International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://kerryfilmfestival.com/\nSource: http
@@ -3004,7 +3715,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:middleburg-film-festival-2026@festival-ics.example
 SUMMARY:Middleburg Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://middleburgfilm.org/\nSource: https:/
@@ -3017,7 +3728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:new-hampshire-film-festival-2026@festival-ics.example
 SUMMARY:New Hampshire Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://nhfilmfestival.com/\nSource: https:/
@@ -3030,7 +3741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:newport-beach-film-festival-2026@festival-ics.example
 SUMMARY:Newport Beach Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261022
 DESCRIPTION:festival\nWebsite: https://newportbeachfilmfest.com/\nSource: h
@@ -3041,9 +3752,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:boston-asian-american-film-festival-2026@festival-ics.example
+SUMMARY:Boston Asian American Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://baaff.org/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://baaff.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:disappear-here-film-festival-2026@festival-ics.example
 SUMMARY:Disappear Here Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:festival\nWebsite: https://disappearherefilmfest.com/\nSource: 
@@ -3054,9 +3777,21 @@ LOCATION:Ireland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:women-makes-waves-international-film-festival-2026@festival-ics.example
+SUMMARY:Women Makes Waves International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://www.wmw.org.tw/en\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.wmw.org.tw/en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:wildscreen-festival-2026@festival-ics.example
 SUMMARY:Wildscreen Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261022
 DESCRIPTION:festival\nWebsite: https://wildscreen.org/festival/\nSource: ht
@@ -3067,9 +3802,21 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:project-k-the-korean-film-festival-2026@festival-ics.example
+SUMMARY:Project K – The Korean Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://projectkffm.de/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://projectkffm.de/
+LOCATION:Germany
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:afi-fest-2026@festival-ics.example
 SUMMARY:AFI Fest
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://fest.afi.com/\nSource: https://www.s
@@ -3082,7 +3829,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jakarta-film-week-2026@festival-ics.example
 SUMMARY:Jakarta Film Week
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://jakartafilmweek.com/\nSource: https:
@@ -3095,7 +3842,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:london-breeze-film-festival-2026@festival-ics.example
 SUMMARY:London Breeze Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://londonbreezefilmfestival.com/\nSourc
@@ -3108,7 +3855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:virginia-film-festival-2026@festival-ics.example
 SUMMARY:Virginia Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261025
 DESCRIPTION:festival\nWebsite: https://virginiafilmfestival.org/\nSource: h
@@ -3119,9 +3866,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:singapore-international-film-festival-2026@festival-ics.example
+SUMMARY:Singapore International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:festival\nWebsite: https://sgiff.com/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://sgiff.com/
+LOCATION:| Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:denver-film-festival-2026@festival-ics.example
 SUMMARY:Denver Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261101
 DESCRIPTION:festival\nWebsite: https://www.denverfilm.org/programs/denverfi
@@ -3134,7 +3893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:doc-n-roll-london-2026@festival-ics.example
 SUMMARY:Doc’n Roll London
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261108
 DESCRIPTION:festival\nWebsite: https://www.docnrollfestival.com/\nSource: h
@@ -3147,7 +3906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:hawaii-international-film-festival-2026@festival-ics.example
 SUMMARY:Hawaii International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261105
 DESCRIPTION:festival\nWebsite: https://hiff.org/\nSource: https://www.scree
@@ -3160,7 +3919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:roscommon-international-film-festival-2026@festival-ics.example
 SUMMARY:Roscommon International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261024
 DESCRIPTION:festival\nWebsite: https://www.roscommonfilm.com/\nSource: http
@@ -3171,10 +3930,22 @@ LOCATION:Ireland
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:asian-film-festival-barcelona-2026@festival-ics.example
+SUMMARY:Asian Film Festival Barcelona
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:festival\nWebsite: https://asianfilmfestival.barcelona/2026/\nS
+	ource: https://asianfilmfestivals.com/schedule/
+URL:https://asianfilmfestival.barcelona/2026/
+LOCATION:Spain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ji-hlava-international-documentary-film-festival-2026@festival-ics.exam
 	ple
 SUMMARY:Ji.hlava International Documentary Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261101
 DESCRIPTION:festival\nWebsite: https://www.ji-hlava.com/\nSource: https://w
@@ -3187,7 +3958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:valladolid-internacional-film-festival-2026@festival-ics.example
 SUMMARY:Valladolid Internacional Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261031
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -3196,9 +3967,34 @@ LOCATION:Spain
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sapporo-international-short-film-festival-and-market-2026@festival-ics.
+	example
+SUMMARY:Sapporo International Short Film Festival and Market
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:festival\nWebsite: https://sapporoshortfest.jp/index-en/\nSourc
+	e: https://asianfilmfestivals.com/schedule/
+URL:https://sapporoshortfest.jp/index-en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bucheon-international-animation-festival-2026@festival-ics.example
+SUMMARY:Bucheon International Animation Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:festival\nWebsite: https://www.biaf.or.kr/en/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://www.biaf.or.kr/en/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:budapest-international-film-festival-2026@festival-ics.example
 SUMMARY:Budapest International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261101
 DESCRIPTION:festival\nWebsite: https://www.biff.hu/en\nSource: https://www.
@@ -3211,7 +4007,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:molodist-kyiv-international-film-festival-2026@festival-ics.example
 SUMMARY:Molodist Kyiv International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261101
 DESCRIPTION:festival\nWebsite: https://www.molodist.com/\nSource: https://w
@@ -3224,7 +4020,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:scad-savannah-film-festival-2026@festival-ics.example
 SUMMARY:SCAD Savannah Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261031
 DESCRIPTION:festival\nWebsite: https://filmfest.scad.edu/\nSource: https://
@@ -3235,9 +4031,35 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ngilngig-asian-fantastic-film-festival-davao-2026@festival-ics.example
+SUMMARY:Ngilngig Asian Fantastic Film Festival Davao
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:festival\nWebsite: https://ngilngig.com/\nSource: https://asian
+	filmfestivals.com/schedule/
+URL:https://ngilngig.com/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kuandu-international-animation-festival-2026@festival-ics.example
+SUMMARY:Kuandu International Animation Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261031
+DESCRIPTION:festival\nWebsite: https://kdiaf.tnua.edu.tw/web/program/progra
+	m.jsp?cp_id=CP1761735796590&lang=en\nSource: https://asianfilmfestivals.co
+	m/schedule/
+URL:https://kdiaf.tnua.edu.tw/web/program/program.jsp?cp_id=CP1761735796590
+	&lang=en
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dok-leipzig-2026@festival-ics.example
 SUMMARY:DOK Leipzig
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
 DESCRIPTION:festival\nWebsite: https://www.dok-leipzig.de/en\nSource: https
@@ -3250,7 +4072,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tokyo-international-film-festival-2026@festival-ics.example
 SUMMARY:Tokyo International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261104
 DESCRIPTION:festival\nWebsite: https://2026.tiff-jp.net/en/\nSource: https:
@@ -3261,10 +4083,34 @@ LOCATION:Japan
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:seoul-international-senior-film-festival-2026@festival-ics.example
+SUMMARY:Seoul International Senior Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+DESCRIPTION:festival\nWebsite: http://sisff.seoulnoin.or.kr/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:http://sisff.seoulnoin.or.kr/
+LOCATION:South Korea
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korean-film-festival-in-paris-2026@festival-ics.example
+SUMMARY:Korean Film Festival in Paris
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:festival\nWebsite: http://www.ffcp-cinema.com/\nSource: https:/
+	/asianfilmfestivals.com/schedule/
+URL:http://www.ffcp-cinema.com/
+LOCATION:France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:evolution-mallorca-international-film-festival-2026@festival-ics.exampl
 	e
 SUMMARY:Evolution Mallorca International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261104
 DESCRIPTION:festival\nWebsite: https://www.evolutionfilmfestival.com/\nSour
@@ -3277,7 +4123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tiffcom-2026@festival-ics.example
 SUMMARY:TIFFCOM
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
 DESCRIPTION:festival\nWebsite: https://tiffcom.jp/en/\nSource: https://www.
@@ -3290,7 +4136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:austin-film-festival-2026@festival-ics.example
 SUMMARY:Austin Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261105
 DESCRIPTION:festival\nWebsite: https://austinfilmfestival.com/\nSource: htt
@@ -3303,7 +4149,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:belfast-film-festival-2026@festival-ics.example
 SUMMARY:Belfast Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261107
 DESCRIPTION:festival\nWebsite: https://belfastfilmfestival.org/\nSource: ht
@@ -3314,9 +4160,21 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dharamshala-international-film-festival-2026@festival-ics.example
+SUMMARY:Dharamshala International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:festival\nWebsite: https://diff.co.in/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://diff.co.in/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:filmchelt-cheltenham-film-festival-2026@festival-ics.example
 SUMMARY:FilmChelt - Cheltenham Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261108
 DESCRIPTION:festival\nWebsite: https://filmchelt.org/\nSource: https://www.
@@ -3329,7 +4187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:spooky-empire-horror-film-festival-2026@festival-ics.example
 SUMMARY:Spooky Empire Horror Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261101
 DESCRIPTION:festival\nWebsite: https://spookyempire.com/\nSource: https://w
@@ -3340,10 +4198,34 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:kineko-international-children-s-film-festival-2026@festival-ics.example
+SUMMARY:Kineko International Children’s Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:festival\nWebsite: https://www.kineko.jp/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.kineko.jp/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-queer-film-festival-2026@festival-ics.example
+SUMMARY:Beijing Queer Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:festival\nWebsite: https://www.bjqff.com/\nSource: https://asia
+	nfilmfestivals.com/schedule/
+URL:https://www.bjqff.com/
+LOCATION:China
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:november-rehoboth-beach-international-film-festival-2026@festival-ics.e
 	xample
 SUMMARY:November Rehoboth Beach International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261108
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -3352,9 +4234,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:tokyo-filmex-international-film-festival-2026@festival-ics.example
+SUMMARY:Tokyo FILMex International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:festival\nWebsite: https://www.filmex.jp/en/\nSource: https://a
+	sianfilmfestivals.com/schedule/
+URL:https://www.filmex.jp/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:the-american-french-film-festival-2026@festival-ics.example
 SUMMARY:The American French Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261108
 DESCRIPTION:festival\nWebsite: https://theamericanfrenchfilmfestival.org/\n
@@ -3367,7 +4261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aesthetica-short-film-festival-2026@festival-ics.example
 SUMMARY:Aesthetica Short Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261108
 DESCRIPTION:festival\nWebsite: https://www.asff.co.uk/\nSource: https://www
@@ -3380,7 +4274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:french-film-festival-uk-2026@festival-ics.example
 SUMMARY:French Film Festival UK
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261209
 DESCRIPTION:festival\nWebsite: https://frenchfilmfestival.org.uk/\nSource: 
@@ -3393,7 +4287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:nordic-film-days-lubeck-2026@festival-ics.example
 SUMMARY:Nordic Film Days Lubeck
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261108
 DESCRIPTION:festival\nWebsite: https://nordische-filmtage.de/en\nSource: ht
@@ -3406,7 +4300,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:european-film-festival-scanorama-2026@festival-ics.example
 SUMMARY:European Film Festival Scanorama
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261122
 DESCRIPTION:festival\nWebsite: https://scanorama.lt/lt\nSource: https://www
@@ -3419,7 +4313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:leeds-international-film-festival-2026@festival-ics.example
 SUMMARY:Leeds International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261122
 DESCRIPTION:festival\nWebsite: https://www.leedsfilm.com/\nSource: https://
@@ -3432,7 +4326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:three-rivers-film-festival-2026@festival-ics.example
 SUMMARY:Three Rivers Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261115
 DESCRIPTION:festival\nWebsite: https://filmpittsburgh.org/pages/three-river
@@ -3443,9 +4337,57 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:philadelphia-asian-american-film-festival-2026@festival-ics.example
+SUMMARY:Philadelphia Asian American Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://paaff.org/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://paaff.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vancouver-asian-film-festival-2026@festival-ics.example
+SUMMARY:Vancouver Asian Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://vaff.org/\nSource: https://asianfilm
+	festivals.com/schedule/
+URL:https://vaff.org/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:san-diego-asian-film-festival-2026@festival-ics.example
+SUMMARY:San Diego Asian Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://sdaff.org/2025/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://sdaff.org/2025/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:taipei-golden-horse-film-festival-2026@festival-ics.example
+SUMMARY:Taipei Golden Horse Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:festival\nWebsite: https://www.goldenhorse.org.tw/\nSource: htt
+	ps://asianfilmfestivals.com/schedule/
+URL:https://www.goldenhorse.org.tw/
+LOCATION:Taiwan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:camerimage-film-festival-2026@festival-ics.example
 SUMMARY:Camerimage Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261114
 DESCRIPTION:festival\nWebsite: https://www.camerimage.pl/en\nSource: https:
@@ -3458,7 +4400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:manchester-animation-festival-2026@festival-ics.example
 SUMMARY:Manchester Animation Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261112
 DESCRIPTION:festival\nWebsite: https://www.manchesteranimationfestival.co.u
@@ -3471,7 +4413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:american-film-market-afm-2026@festival-ics.example
 SUMMARY:American Film Market (AFM)
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261115
 DESCRIPTION:festival\nWebsite: https://americanfilmmarket.com/\nSource: htt
@@ -3482,9 +4424,21 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:five-flavours-film-festival-2026@festival-ics.example
+SUMMARY:Five Flavours Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261117
+DESCRIPTION:festival\nWebsite: https://www.piecsmakow.pl/index.do?lang=en\n
+	Source: https://asianfilmfestivals.com/schedule/
+URL:https://www.piecsmakow.pl/index.do?lang=en
+LOCATION:Poland
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:uk-november-11-doc-nyc-2026@festival-ics.example
 SUMMARY:UK - November 11 DOC NYC
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261129
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -3493,9 +4447,34 @@ LOCATION:US
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:seashorts-film-festival-2026@festival-ics.example
+SUMMARY:SeaShorts Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://www.instagram.com/seashortsfilmfest/
+	?hl=en\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://www.instagram.com/seashortsfilmfest/?hl=en
+LOCATION:Malaysia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:toronto-reel-asian-international-film-festival-2026@festival-ics.exampl
+	e
+SUMMARY:Toronto Reel Asian International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261121
+DESCRIPTION:festival\nWebsite: https://www.reelasian.com/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://www.reelasian.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:cork-international-film-festival-2026@festival-ics.example
 SUMMARY:Cork International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261122
 DESCRIPTION:festival\nWebsite: https://corkfilmfest.org/\nSource: https://w
@@ -3509,7 +4488,7 @@ BEGIN:VEVENT
 UID:international-documentary-film-festival-amsterdam-2026@festival-ics.exa
 	mple
 SUMMARY:International Documentary Film Festival Amsterdam
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261122
 DESCRIPTION:festival\nWebsite: https://festival.idfa.nl/en/\nSource: https:
@@ -3520,9 +4499,33 @@ LOCATION:Netherlands
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:asian-world-film-festival-2026@festival-ics.example
+SUMMARY:Asian World Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261119
+DESCRIPTION:festival\nWebsite: https://www.asianworldfilmfest.org/\nSource:
+	 https://asianfilmfestivals.com/schedule/
+URL:https://www.asianworldfilmfest.org/
+LOCATION:USA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qcinema-international-film-festival-2026@festival-ics.example
+SUMMARY:QCinema International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:festival\nWebsite: https://qcinema.ph/\nSource: https://asianfi
+	lmfestivals.com/schedule/
+URL:https://qcinema.ph/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:city-lights-film-festival-2026@festival-ics.example
 SUMMARY:City Lights Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261117
 DESCRIPTION:festival\nWebsite: https://citylightsfilmfestival.com/\nSource:
@@ -3533,9 +4536,33 @@ LOCATION:UK
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cartoons-underground-2026@festival-ics.example
+SUMMARY:Cartoons Underground
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:festival\nWebsite: https://cartoonsunderground.com/\nSource: ht
+	tps://asianfilmfestivals.com/schedule/
+URL:https://cartoonsunderground.com/
+LOCATION:Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:yellowstone-international-film-festival-2026@festival-ics.example
+SUMMARY:Yellowstone International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:festival\nWebsite: https://yellowstoneinternationalfilmfestival
+	.com/\nSource: https://asianfilmfestivals.com/schedule/
+URL:https://yellowstoneinternationalfilmfestival.com/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:houston-greek-film-festival-2026@festival-ics.example
 SUMMARY:Houston Greek Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
 DESCRIPTION:festival\nWebsite: https://www.hgff.org/\nSource: https://www.s
@@ -3548,7 +4575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:marrakech-film-festival-2026@festival-ics.example
 SUMMARY:Marrakech Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261128
 DESCRIPTION:festival\nWebsite: https://marrakech-festival.com/en/home/\nSou
@@ -3559,9 +4586,46 @@ LOCATION:Morocco
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:new-chitose-airport-international-animation-festival-2026@festival-ics.
+	example
+SUMMARY:New Chitose Airport International Animation Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261124
+DESCRIPTION:festival\nWebsite: https://airport-anifes.jp/en/\nSource: https
+	://asianfilmfestivals.com/schedule/
+URL:https://airport-anifes.jp/en/
+LOCATION:Japan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-film-dokumenter-2026@festival-ics.example
+SUMMARY:Festival Film Dokumenter
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261127
+DESCRIPTION:festival\nWebsite: https://ffd.or.id/\nSource: https://asianfil
+	mfestivals.com/schedule/
+URL:https://ffd.or.id/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mulan-international-film-festival-2026@festival-ics.example
+SUMMARY:Mulan International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261203
+DESCRIPTION:festival\nWebsite: https://mulanfestival.com/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://mulanfestival.com/
+LOCATION:Canada
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:tfl-meeting-event-2026@festival-ics.example
 SUMMARY:TFL Meeting Event
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
 DESCRIPTION:festival\nWebsite: https://www.torinofilmlab.it/events/tfl-meet
@@ -3572,9 +4636,34 @@ LOCATION:Italy
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:film-southasia-2026@festival-ics.example
+SUMMARY:Film SouthAsia
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:festival\nWebsite: https://filmsouthasia.org/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://filmsouthasia.org/
+LOCATION:Nepal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nepal-human-rights-international-film-festival-2026@festival-ics.exampl
+	e
+SUMMARY:Nepal Human Rights International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:festival\nWebsite: https://hrfilms.org/filmfestival/\nSource: h
+	ttps://asianfilmfestivals.com/schedule/
+URL:https://hrfilms.org/filmfestival/
+LOCATION:Nepal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jaff-market-2026@festival-ics.example
 SUMMARY:JAFF Market
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 DESCRIPTION:festival\nWebsite: https://jaff-market.com/\nSource: https://ww
@@ -3587,7 +4676,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jogpa-netpac-asian-film-festival-2026@festival-ics.example
 SUMMARY:Jogpa-NETPAC Asian Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261205
 DESCRIPTION:festival\nWebsite: https://jaff-filmfest.org/\nSource: https://
@@ -3598,9 +4687,34 @@ LOCATION:Indonesia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jogja-netpac-asian-film-festival-2026@festival-ics.example
+SUMMARY:Jogja NETPAC Asian Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261205
+DESCRIPTION:festival\nWebsite: https://jaff-filmfest.org/\nSource: https://
+	asianfilmfestivals.com/schedule/
+URL:https://jaff-filmfest.org/
+LOCATION:Indonesia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kinotayo-festival-of-contemporary-japanese-cinema-in-france-2026@festiv
+	al-ics.example
+SUMMARY:Kinotayo Festival of Contemporary Japanese Cinema in France
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261212
+DESCRIPTION:festival\nWebsite: https://kinotayo.fr/\nSource: https://asianf
+	ilmfestivals.com/schedule/
+URL:https://kinotayo.fr/
+LOCATION:France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:december-asia-tv-forum-market-2026@festival-ics.example
 SUMMARY:December Asia TV Forum & Market
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261204
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
@@ -3609,15 +4723,83 @@ LOCATION:Singapore
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:asia-tv-forum-market-2026@festival-ics.example
+SUMMARY:Asia TV Forum & Market
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+DESCRIPTION:festival\nWebsite: https://www.asiatvforum.com/\nSource: https:
+	//asianfilmfestivals.com/schedule/
+URL:https://www.asiatvforum.com/
+LOCATION:| Singapore
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:uk-december-3-red-sea-international-film-festival-2026@festival-ics.exa
 	mple
 SUMMARY:UK - December 3 Red Sea International Film Festival
-DTSTAMP:20260816T171746Z
+DTSTAMP:20260818T175310Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261212
 DESCRIPTION:festival\nSource: https://www.screendaily.com/news/2026-film-fe
 	stivals-and-markets-calendar-latest-dates/5211872.article
 LOCATION:Saudi Arabia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:red-sea-international-film-festival-2026@festival-ics.example
+SUMMARY:Red Sea International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261212
+DESCRIPTION:festival\nWebsite: https://redseafilmfest.com/en/\nSource: http
+	s://asianfilmfestivals.com/schedule/
+URL:https://redseafilmfest.com/en/
+LOCATION:Saudi Arabia
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:luang-prabang-film-festival-2026@festival-ics.example
+SUMMARY:Luang Prabang Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261208
+DESCRIPTION:festival\nWebsite: https://bluechair.film/\nSource: https://asi
+	anfilmfestivals.com/schedule/
+URL:https://bluechair.film/
+LOCATION:Laos
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:international-film-festival-of-kerala-2026@festival-ics.example
+SUMMARY:International Film Festival of Kerala
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261218
+DESCRIPTION:festival\nWebsite: https://iffk.in/\nSource: https://asianfilmf
+	estivals.com/schedule/
+URL:https://iffk.in/
+LOCATION:India
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:metro-manila-film-festival-2026@festival-ics.example
+SUMMARY:Metro Manila Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20270107
+DESCRIPTION:festival\nSource: https://asianfilmfestivals.com/schedule/
+LOCATION:Philippines
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:manila-international-film-festival-2026@festival-ics.example
+SUMMARY:Manila International Film Festival
+DTSTAMP:20260818T175310Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20270107
+DESCRIPTION:festival\nSource: https://asianfilmfestivals.com/schedule/
+LOCATION:USA
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
