@@ -2491,6 +2491,885 @@
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
       "website": "https://www.mvaaff.com/",
       "rawText": "Martha’s Vineyard African-American Film Festival, US - August 7-15"
+    },
+    {
+      "name": "Japanese Film Festival Nippon Connection",
+      "country": "Germany",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-07",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "2- 7, 2026 – Japanese Film Festival Nippon Connection | Frankfurt, Germany",
+      "website": "https://nipponconnection.com/en/start/"
+    },
+    {
+      "name": "Yubari International Fantastic Film Festival",
+      "country": "Japan",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-07",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "4 – 7, 2026 – Yubari International Fantastic Film Festival | Yubari, Japan",
+      "website": "https://www.yubari-fanta.com/"
+    },
+    {
+      "name": "Seoul Human Rights Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-07",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "4 – 7, 2026 – Seoul Human Rights Film Festival | Seoul, South Korea",
+      "website": "https://hrflix.org/"
+    },
+    {
+      "name": "Seoul International Eco Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-30",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "5 – 30, 2026 – Seoul International Eco Film Festival | Seoul, South Korea",
+      "website": "https://sieff.kr/"
+    },
+    {
+      "name": "Changing Climate, Changing Lives Film Festival",
+      "country": "Thailand",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-21",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "12 – 21, 2026 – Changing Climate, Changing Lives Film Festival | Bangkok, Thailand",
+      "website": "https://www.ccclfilmfestival.com/en"
+    },
+    {
+      "name": "Japan Film Fest Hamburg",
+      "country": "Germany",
+      "startDate": "2026-06-17",
+      "endDate": "2026-06-21",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "17 – 21, 2026 – Japan Film Fest Hamburg | Hamburg, Germany",
+      "website": "https://jffh.de/en"
+    },
+    {
+      "name": "Austin Asian American Film Festival",
+      "country": "USA",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-28",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "24 – 28, 2026 – Austin Asian American Film Festival | Austin, USA",
+      "website": "https://www.aaafilmfest.org/"
+    },
+    {
+      "name": "Chuncheon Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-28",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "25 – 28, 2026 – Chuncheon Film Festival | Chuncheon, South Korea",
+      "website": "http://ccff.or.kr/"
+    },
+    {
+      "name": "Korea Queer Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-28",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "26 – 28, 2026 – Korea Queer Film Festival | Seoul, South Korea",
+      "website": "https://www.kqff.co.kr/"
+    },
+    {
+      "name": "Taipei Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-28",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "26 – 28, 2026 – Taipei Film Festival | Taipei, Taiwan",
+      "website": "https://www.taipeiff.taipei/en"
+    },
+    {
+      "name": "Bucheon International Fantastic Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-12",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "2 – 7, 2026 – Bucheon International Fantastic Film Festival | Bucheon, South Korea",
+      "website": "https://www.bifan.kr/"
+    },
+    {
+      "name": "Film Festival for Women’s Rights",
+      "country": "South Korea",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-12",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "8 – 12, 2026 – Film Festival for Women’s Rights | Seoul, South Korea",
+      "website": "https://www.fiwom.org/eng/main/main.html"
+    },
+    {
+      "name": "Busan International Kids & Youth Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-14",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "8 – 14, 2026 – Busan International Kids & Youth Film Festival | Busan, South Korea",
+      "website": "https://www.biky.or.kr/eng/"
+    },
+    {
+      "name": "Japan Cuts",
+      "country": "United States",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-18",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "8 – 18, 2026 – Japan Cuts | New York, United States",
+      "website": "https://japansociety.org/film/japancuts/"
+    },
+    {
+      "name": "Nits Festival of Oriental Cinema",
+      "country": "Spain",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-19",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "14 – 19, 2026 – Nits Festival of Oriental Cinema | Vic, Spain",
+      "website": "https://cinemaoriental.com/en/"
+    },
+    {
+      "name": "Mini Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-19",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "18 – 19, 2026 – Mini Film Festival | Kota, Samarahan, Malaysia",
+      "website": "https://www.instagram.com/minifilmfestival/?hl=en"
+    },
+    {
+      "name": "Asian Film Festival of Dallas",
+      "country": "USA",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-26",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "23 – 26, 2026 – Asian Film Festival of Dallas | Dallas, USA",
+      "website": "https://asianfilmdallas.org/our-mission"
+    },
+    {
+      "name": "Experimental Film and Video Festival in Seoul",
+      "country": "South Korea",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-30",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "23 – 30, 2026 – Experimental Film and Video Festival in Seoul | Seoul, South Korea",
+      "website": "https://ex-is.org/"
+    },
+    {
+      "name": "Taiwan Film Festival in Australia",
+      "country": "Australia",
+      "startDate": "2026-07-23",
+      "endDate": "2026-09-06",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "23 – September 6, 2026 – Taiwan Film Festival in Australia | Sydney, Australia",
+      "website": "https://www.taiwanfilmfestival.org.au/"
+    },
+    {
+      "name": "Asian American International Film Festival",
+      "country": "USA",
+      "startDate": "2026-07-30",
+      "endDate": "2026-08-09",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "30 – August 9, 2026 – Asian American International Film Festival | New York, USA",
+      "website": "https://www.asiancinevision.org/aaiff/"
+    },
+    {
+      "name": "Bengaluru International Short Film Festival",
+      "country": "India",
+      "startDate": "2026-08-06",
+      "endDate": "2026-08-16",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "6 – 16, 2026 – Bengaluru International Short Film Festival | Bengaluru, India",
+      "website": "https://bisff.in/"
+    },
+    {
+      "name": "Jeongdongjin Independent Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-10",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "7 – 10, 2026 – Jeongdongjin Independent Film Festival | Jeongdongjin, South Korea",
+      "website": "https://jiff.kr/"
+    },
+    {
+      "name": "Binisaya Film Festival",
+      "country": "Philippines",
+      "startDate": "2026-08-16",
+      "endDate": "2026-08-23",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "16 – 23, 2026 – Binisaya Film Festival | Cebu, Philippines"
+    },
+    {
+      "name": "Hiroshima Animation Season",
+      "country": "Japan",
+      "startDate": "2026-08-19",
+      "endDate": "2026-08-23",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "19 – 23, 2026 – Hiroshima Animation Season | Hiroshima, Japan",
+      "website": "https://animation.hiroshimafest.org/en/"
+    },
+    {
+      "name": "Seoul International Women’s Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-26",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "20 – 26, 2026 – Seoul International Women’s Film Festival | Seoul, South Korea",
+      "website": "https://siwff.or.kr/eng/"
+    },
+    {
+      "name": "Cheongju International Short Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-23",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "21 – 23, 2026 – Cheongju International Short Film Festival | Cheongju, South Korea",
+      "website": "https://cjiff.co.kr/"
+    },
+    {
+      "name": "Seoul International NewMedia Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-27",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "21 – 27, 2026 – Seoul International NewMedia Festival | Seoul, South Korea",
+      "website": "https://www.nemaf.net/"
+    },
+    {
+      "name": "EBS International Documentary Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-30",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "24 – 30, 2026 – EBS International Documentary Festival | Seoul, South Korea",
+      "website": "https://www.eidf.co.kr/eng"
+    },
+    {
+      "name": "International Documentary & Short Film Festival",
+      "country": "India",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "August, 2026 – International Documentary & Short Film Festival | Trivandrum, India",
+      "website": "https://dokufest.com/"
+    },
+    {
+      "name": "Docs by The Sea",
+      "country": "| Indonesia",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-09",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "1 – 9, 2026 – Docs by The Sea | Indonesia",
+      "website": "https://docsbythesea.org/"
+    },
+    {
+      "name": "Aichi International Women’s Film Festival",
+      "country": "Japan",
+      "startDate": "2026-09-02",
+      "endDate": "2026-09-06",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "2 – 6, 2026 – Aichi International Women’s Film Festival | Aichi, Japan",
+      "website": "https://www.aiwff.com/2026/en/"
+    },
+    {
+      "name": "Korean Film Festival in Barcelona",
+      "country": "Spain",
+      "startDate": "2026-09-02",
+      "endDate": "2026-09-06",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "2 – 6, 2026 – Korean Film Festival in Barcelona | Barcelona, Spain",
+      "website": "https://koreanfilmfestivalbcn.com/"
+    },
+    {
+      "name": "Persons with Disabilities Film Festival (rescheduled tba)",
+      "country": "South Korea",
+      "startDate": "2026-09-03",
+      "endDate": "2026-09-07",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "3 – 7, 2026 – Persons with Disabilities Film Festival | Seoul, South Korea",
+      "website": "https://www.pdff.or.kr/"
+    },
+    {
+      "name": "Jecheon International Music & Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-03",
+      "endDate": "2026-09-09",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "3 – 8, 2026 – Jecheon International Music & Film Festival | Jecheon, South Korea",
+      "website": "https://jimff.org/eng/"
+    },
+    {
+      "name": "Taiwan Film Festival of Boson",
+      "country": "USA",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-21",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "4 – 5, 2026 – Taiwan Film Festival of Boson | Boston, USA",
+      "website": "https://taiwanfilmfest.org/"
+    },
+    {
+      "name": "Vancouver Taiwanese Film Festival",
+      "country": "Canada",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-05",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "4 – 5, 2026 – Vancouver Taiwanese Film Festival | Vancouver, Canada",
+      "website": "https://www.twff.ca/"
+    },
+    {
+      "name": "Japan Film Festival Los Angeles",
+      "country": "USA",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-12",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "4 – 6, 2026 – Japan Film Festival Los Angeles | Los Angeles, USA",
+      "website": "https://jffla.org/"
+    },
+    {
+      "name": "Hong Kong Lesbian and Gay Film Festival",
+      "country": "| Hong Kong",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-19",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "4 – 19, 2026 – Hong Kong Lesbian and Gay Film Festival | Hong Kong",
+      "website": "https://www.hklgff.hk/"
+    },
+    {
+      "name": "Seoul International Children’s Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "10 – 15, 2026 – Seoul International Children’s Film Festival | Seoul, South Korea",
+      "website": "https://www.sicff.kr/eng/"
+    },
+    {
+      "name": "ARKIPEL Jakarta International Documentary & Experimental Film Festival",
+      "country": "Indonesia",
+      "startDate": "2026-09-3",
+      "endDate": "2026-09-13",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "10 – 21, 2026 – ARKIPEL Jakarta International Documentary & Experimental Film Festival | Jakarta, Indonesia",
+      "website": "https://arkipel.id/"
+    },
+    {
+      "name": "DC South Asian Film Festival",
+      "country": "USA",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "11 – 13, 2026 – DC South Asian Film Festival | Washington, USA",
+      "website": "https://dcsaaci.org/"
+    },
+    {
+      "name": "Minikino Film Week",
+      "country": "Indonesia",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-18",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "11 – 18, 2026 – Minikino Film Week | Bali, Indonesia",
+      "website": "https://minikino.org/filmweek/"
+    },
+    {
+      "name": "Kota Kinabalu International Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-19",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "12 – 20, 2026 – Kota Kinabalu International Film Festival | Kota Kinabalu, Malaysia",
+      "website": "https://www.kkiff.com/"
+    },
+    {
+      "name": "Chicago South Asian Film Festival",
+      "country": "USA",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-20",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "17 – 20, 2026 – Chicago South Asian Film Festival | Chicago, USA",
+      "website": "https://www.csaff.org/"
+    },
+    {
+      "name": "Korea Independent Animation Film Festival Indie-Anifest",
+      "country": "South Korea",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-22",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "17 – 22, 2026 – Korea Independent Animation Film Festival Indie-Anifest | Seoul, South Korea",
+      "website": "https://www.ianifest.org/"
+    },
+    {
+      "name": "Gyeonggi Film School Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "18 – 20, 2026 – Gyeonggi Film School Festival | Gyeonggi, South Korea",
+      "website": "https://www.gfsf.co.kr/"
+    },
+    {
+      "name": "Ulju Mountain Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-22",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "18 – 22, 2026 – Ulju Mountain Film Festival | Ulsan, South Korea",
+      "website": "https://www.umff.kr/eng/default.asp"
+    },
+    {
+      "name": "Taiwan Film Festival Berlin",
+      "country": "Germany",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-04",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "18 – 26, 2026 – Taiwan Film Festival Berlin | Berlin, Germany",
+      "website": "https://tffberlin.de/"
+    },
+    {
+      "name": "Image Forum Festival Tokyo",
+      "country": "Japan",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-25",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "19 – 25, 2026 – Image Forum Festival Tokyo | Tokyo, Japan",
+      "website": "https://www.imageforumfestival.com/2026/en/bosyu/gaiyo/"
+    },
+    {
+      "name": "Nara International Film Festival",
+      "country": "Japan",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-23",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "20 – 23, 2026 – Nara International Film Festival | Nara, Japan",
+      "website": "https://nara-iff.jp/"
+    },
+    {
+      "name": "Camera Japan Festival",
+      "country": "Netherlands",
+      "startDate": "2026-09-23",
+      "endDate": "2026-10-04",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "23 – October 4, 2026 – Camara Japan Festival | Rotterdam & Amsterdam, Netherlands",
+      "website": "https://camerajapan.nl/"
+    },
+    {
+      "name": "Odyssey Chinese Cinema Season",
+      "country": "UK",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-10",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "28 – October 10, 2026 – Odyssey Chinese Cinema Season | London, UK",
+      "website": "https://www.odysseychinesecinema.uk/"
+    },
+    {
+      "name": "Raintown Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "September, 2026 – Raintown Film Festival | Taiping, Malaysia",
+      "website": "https://www.instagram.com/raintownfilmfestival/?hl=en"
+    },
+    {
+      "name": "Mosaic International South Asian Film Festival",
+      "country": "Canada",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "1 – 4, 2026 – Mosaic International South Asian Film Festival | Mississauga, Canada",
+      "website": "https://www.misaff.com/"
+    },
+    {
+      "name": "Taichung International Animation Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-18",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "3 – 10, 2026 – Taichung International Animation Festival | Taichung, Taiwan",
+      "website": "https://twtiaf.com/2025/index.php"
+    },
+    {
+      "name": "Tasveer Film Festival",
+      "country": "USA",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-18",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "6 – 12, 2026 – Tasveer Film Festival | Seattle, USA",
+      "website": "https://tasveer.org/tasveer-film-festival/"
+    },
+    {
+      "name": "Viet Film Fest",
+      "country": "USA",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-11",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "9 – 11, 2026 – Viet Film Fest | Los Angeles, USA",
+      "website": "https://www.vietfilmfest.com/"
+    },
+    {
+      "name": "IFVA Film Festival",
+      "country": "| Hong Kong",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-24",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "9 – 25, 2026 – IFVA Film Festival | Hong Kong",
+      "website": "https://ifva.com/"
+    },
+    {
+      "name": "Kaohsiung Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-26",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "9 – 26, 2026 – Kaohsiung Film Festival | Kaohsiung, Taiwan",
+      "website": "https://www.kff.tw/en"
+    },
+    {
+      "name": "Boston Asian American Film Festival",
+      "country": "USA",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-25",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "15 – 25, 2026 – Boston Asian American Film Festival | Boston, USA",
+      "website": "https://baaff.org/"
+    },
+    {
+      "name": "Women Makes Waves International Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-25",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "16 – 25, 2026 – Women Makes Waves Film Festival | Taipei, Taiwan",
+      "website": "https://www.wmw.org.tw/en"
+    },
+    {
+      "name": "Seoul International Senior Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "20 – 23, 2026 – Seoul International Senior Film Festival | Seoul, South Korea",
+      "website": "http://sisff.seoulnoin.or.kr/"
+    },
+    {
+      "name": "Project K – The Korean Film Festival",
+      "country": "Germany",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-25",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "20 – 25, 2026 – Project K – The Korean Film Festival | Frankfurt, Germany",
+      "website": "https://projectkffm.de/"
+    },
+    {
+      "name": "Singapore International Film Festival",
+      "country": "| Singapore",
+      "startDate": "2026-10-21",
+      "endDate": "2026-11-01",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "21 – November 1, 2026 – Singapore International Film Festival | Singapore",
+      "website": "https://sgiff.com/"
+    },
+    {
+      "name": "Asian Film Festival Barcelona",
+      "country": "Spain",
+      "startDate": "2026-10-22",
+      "endDate": "2026-11-01",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "22 – November 1, 2026 – Asian Film Festival Barcelona | Barcelona, Spain",
+      "website": "https://asianfilmfestival.barcelona/2026/"
+    },
+    {
+      "name": "Sapporo International Short Film Festival and Market",
+      "country": "Japan",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "23 – 25, 2026 – Sapporo International Short Film Festival and Market | Sapporo, Japan",
+      "website": "https://sapporoshortfest.jp/index-en/"
+    },
+    {
+      "name": "Bucheon International Animation Festival",
+      "country": "South Korea",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-27",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "23 – 27, 2026 – Bucheon International Animation Festival | Bucheon, South Korea",
+      "website": "https://www.biaf.or.kr/en/"
+    },
+    {
+      "name": "Ngilngig Asian Fantastic Film Festival Davao",
+      "country": "Philippines",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-28",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "24 – 28, 2026 – Ngilngig Asian Fantastic Film Festival Davao | Davao City, Philippines",
+      "website": "https://ngilngig.com/"
+    },
+    {
+      "name": "Kuandu International Animation Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "25 – 31, 2026 – Kuandu International Animation Festival | Taipei, Taiwan",
+      "website": "https://kdiaf.tnua.edu.tw/web/program/program.jsp?cp_id=CP1761735796590&lang=en"
+    },
+    {
+      "name": "Korean Film Festival in Paris",
+      "country": "France",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-03",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "27 – November 3, 2026 – Korean Film Festival in Paris | Paris, France",
+      "website": "http://www.ffcp-cinema.com/"
+    },
+    {
+      "name": "Dharamshala International Film Festival",
+      "country": "India",
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-01",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "29 – November 1, 2026 – Dharamshala International Film Festival | Dharamshala, India",
+      "website": "https://diff.co.in/"
+    },
+    {
+      "name": "Kineko International Children’s Film Festival",
+      "country": "Japan",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-03",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "30 – November 3, 2026 – Kineko International Children’s Film Festival | Tokyo, Japan",
+      "website": "https://www.kineko.jp/"
+    },
+    {
+      "name": "Beijing Queer Film Festival",
+      "country": "China",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-08",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "30 – November 8, 2026 – Beijing Queer Film Festival | Beijing, China",
+      "website": "https://www.bjqff.com/"
+    },
+    {
+      "name": "SeaShorts Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "October, 2026 – SeaShorts Film Festival | Malacca, Malaysia",
+      "website": "https://www.instagram.com/seashortsfilmfest/?hl=en"
+    },
+    {
+      "name": "San Diego Asian Film Festival",
+      "country": "USA",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "5 – 14, 2026 – San Diego Asian Film Festival | San Diego, USA",
+      "website": "https://sdaff.org/2025/"
+    },
+    {
+      "name": "Philadelphia Asian American Film Festival",
+      "country": "USA",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "5 – 15, 2026 – Philadelphia Asian American Film Festival | Philadelphia, USA",
+      "website": "https://paaff.org/"
+    },
+    {
+      "name": "Vancouver Asian Film Festival",
+      "country": "Canada",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "5 – 15, 2026 – Vancouver Asian Film Festival | Vancouver, Canada",
+      "website": "https://vaff.org/"
+    },
+    {
+      "name": "Taipei Golden Horse Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-22",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "6 – 22, 2026 – Taipei Golden Horse Film Festival | Taipei, Taiwan",
+      "website": "https://www.goldenhorse.org.tw/"
+    },
+    {
+      "name": "Five Flavours Film Festival",
+      "country": "Poland",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-17",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "10 – 17, 2026 – Five Flavours Film Festival | Warsaw, Poland",
+      "website": "https://www.piecsmakow.pl/index.do?lang=en"
+    },
+    {
+      "name": "Toronto Reel Asian International Film Festival",
+      "country": "Canada",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-21",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "11 – 21, 2026 – Toronto Reel Asian International Film Festival | Toronto, Canada",
+      "website": "https://www.reelasian.com/"
+    },
+    {
+      "name": "Asian World Film Festival",
+      "country": "USA",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-19",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "12 – 19, 2026 – Asian World Film Festival | Los Angeles, USA",
+      "website": "https://www.asianworldfilmfest.org/"
+    },
+    {
+      "name": "QCinema International Film Festival",
+      "country": "Philippines",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-22",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "13 – 22, 2026 – QCinema International Film Festival | Quezon City, Philippines",
+      "website": "https://qcinema.ph/"
+    },
+    {
+      "name": "Cartoons Underground",
+      "country": "Singapore",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "14 – 15, 2026 – Cartoons Underground | Singapore",
+      "website": "https://cartoonsunderground.com/"
+    },
+    {
+      "name": "Yellowstone International Film Festival",
+      "country": "India",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-20",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "14 – 20, 2026 – Yellowstone International Film Festival | Noida, India",
+      "website": "https://yellowstoneinternationalfilmfestival.com/"
+    },
+    {
+      "name": "New Chitose Airport International Animation Festival",
+      "country": "Japan",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-24",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "20 – 24, 2026 – New Chitose Airport International Animation Festival | Chitose, Japan",
+      "website": "https://airport-anifes.jp/en/"
+    },
+    {
+      "name": "Festival Film Dokumenter",
+      "country": "Indonesia",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-27",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "20 – 27, 2026 – Festival Film Dokumenter | Yogyakarta, Indonesia",
+      "website": "https://ffd.or.id/"
+    },
+    {
+      "name": "Mulan International Film Festival",
+      "country": "Canada",
+      "startDate": "2026-11-21",
+      "endDate": "2026-12-03",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "21 – December 3, 2026 – Mulan International Film Festival | Toronto, Canada",
+      "website": "https://mulanfestival.com/"
+    },
+    {
+      "name": "Film SouthAsia",
+      "country": "Nepal",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-29",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "26 – 29, 2026 – Film SouthAsia | Kathmandu, Nepal",
+      "website": "https://filmsouthasia.org/"
+    },
+    {
+      "name": "Nepal Human Rights International Film Festival",
+      "country": "Nepal",
+      "startDate": "2026-11-27",
+      "endDate": "2026-12-01",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "27 – December 1, 2026 – Nepal Human Rights International Film Festival | Kathmandu, Nepal",
+      "website": "https://hrfilms.org/filmfestival/"
+    },
+    {
+      "name": "Jogja NETPAC Asian Film Festival",
+      "country": "Indonesia",
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-05",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "28 – December 5, 2026 – Jogja NETPAC Asian Film Festival | Yogyakarta, Indonesia",
+      "website": "https://jaff-filmfest.org/"
+    },
+    {
+      "name": "Tokyo FILMex International Film Festival",
+      "country": "Japan",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-30",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "November, 2026 – Tokyo FILMex International Film Festival | Tokyo, Japan",
+      "website": "https://www.filmex.jp/en/"
+    },
+    {
+      "name": "Asia TV Forum & Market",
+      "country": "| Singapore",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-04",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "1 – 4, 2026 – Asia TV Forum & Market | Singapore (Film and TV Forum)",
+      "website": "https://www.asiatvforum.com/"
+    },
+    {
+      "name": "Luang Prabang Film Festival",
+      "country": "Laos",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-08",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "3 – 7, 2026 – Luang Prabang Film Festival | Luang Prabang, Laos",
+      "website": "https://bluechair.film/"
+    },
+    {
+      "name": "Red Sea International Film Festival",
+      "country": "Saudi Arabia",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-12",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "3 – 12, 2026 – Red Sea International Film Festival | Saudi Arabia",
+      "website": "https://redseafilmfest.com/en/"
+    },
+    {
+      "name": "International Film Festival of Kerala",
+      "country": "India",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-18",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "11 – 18, 2026 – International Film Festival of Kerala | Thiruvananthapuram, India",
+      "website": "https://iffk.in/"
+    },
+    {
+      "name": "Metro Manila Film Festival",
+      "country": "Philippines",
+      "startDate": "2026-12-25",
+      "endDate": "2027-01-07",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "25, 2026 – January 7, 2027 – Metro Manila Film Festival | Metro Manila, Philippines"
+    },
+    {
+      "name": "Manila International Film Festival",
+      "country": "USA",
+      "startDate": "2026-12-25",
+      "endDate": "2027-01-07",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "25, 2026 – January 7, 2027 – Metro Manila Film Festival | Metro Manila, Philippines"
+    },
+    {
+      "name": "Kinotayo Festival of Contemporary Japanese Cinema in France",
+      "country": "France",
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-12",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "rawText": "December 2026 – Kinotayo Festival of Contemporary Japanese Cinema in France | Paris, France",
+      "website": "https://kinotayo.fr/"
     }
   ]
 }

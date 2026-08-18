@@ -1291,6 +1291,18 @@
       "notes": ""
     },
     {
+      "uid": "japanese-film-festival-nippon-connection-2026@festival-ics.example",
+      "name": "Japanese Film Festival Nippon Connection",
+      "country": "Germany",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-07",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://nipponconnection.com/en/start/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "kashish-pride-film-festival-2026@festival-ics.example",
       "name": "Kashish Pride Film Festival",
       "country": "India",
@@ -1339,6 +1351,30 @@
       "notes": ""
     },
     {
+      "uid": "yubari-international-fantastic-film-festival-2026@festival-ics.example",
+      "name": "Yubari International Fantastic Film Festival",
+      "country": "Japan",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-07",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.yubari-fanta.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "seoul-human-rights-film-festival-2026@festival-ics.example",
+      "name": "Seoul Human Rights Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-07",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://hrflix.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "kingston-international-film-festival-2026@festival-ics.example",
       "name": "Kingston International Film Festival",
       "country": "UK",
@@ -1348,6 +1384,18 @@
       "status": "confirmed",
       "website": "https://www.kiffest.uk/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "seoul-international-eco-film-festival-2026@festival-ics.example",
+      "name": "Seoul International Eco Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-30",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://sieff.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -1459,6 +1507,18 @@
       "notes": ""
     },
     {
+      "uid": "changing-climate-changing-lives-film-festival-2026@festival-ics.example",
+      "name": "Changing Climate, Changing Lives Film Festival",
+      "country": "Thailand",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-21",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.ccclfilmfestival.com/en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "banff-world-media-festival-2026@festival-ics.example",
       "name": "BANFF World Media Festival",
       "country": "Canada",
@@ -1567,6 +1627,18 @@
       "notes": ""
     },
     {
+      "uid": "japan-film-fest-hamburg-2026@festival-ics.example",
+      "name": "Japan Film Fest Hamburg",
+      "country": "Germany",
+      "startDate": "2026-06-17",
+      "endDate": "2026-06-21",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://jffh.de/en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "silvervox-film-music-festival-2026@festival-ics.example",
       "name": "SilverVox Film & Music Festival",
       "country": "US",
@@ -1649,6 +1721,18 @@
       "notes": ""
     },
     {
+      "uid": "austin-asian-american-film-festival-2026@festival-ics.example",
+      "name": "Austin Asian American Film Festival",
+      "country": "USA",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-28",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.aaafilmfest.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "scad-lacoste-film-festival-2026@festival-ics.example",
       "name": "SCAD Lacoste Film Festival",
       "country": "France",
@@ -1673,6 +1757,18 @@
       "notes": ""
     },
     {
+      "uid": "chuncheon-film-festival-2026@festival-ics.example",
+      "name": "Chuncheon Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-28",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "http://ccff.or.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "filmfest-munich-2026@festival-ics.example",
       "name": "FilmFest Munich",
       "country": "Germany",
@@ -1685,6 +1781,30 @@
       "notes": ""
     },
     {
+      "uid": "korea-queer-film-festival-2026@festival-ics.example",
+      "name": "Korea Queer Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-28",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.kqff.co.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "taipei-film-festival-2026@festival-ics.example",
+      "name": "Taipei Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-28",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.taipeiff.taipei/en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "muslim-international-film-festival-2026@festival-ics.example",
       "name": "Muslim International Film Festival",
       "country": "UK",
@@ -1694,6 +1814,18 @@
       "status": "confirmed",
       "website": "https://themiff.net/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "bucheon-international-fantastic-film-festival-2026@festival-ics.example",
+      "name": "Bucheon International Fantastic Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-12",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.bifan.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -1730,6 +1862,42 @@
       "status": "confirmed",
       "website": "https://www.galwayfilmfleadh.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "film-festival-for-women-s-rights-2026@festival-ics.example",
+      "name": "Film Festival for Women’s Rights",
+      "country": "South Korea",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-12",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.fiwom.org/eng/main/main.html",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "busan-international-kids-youth-film-festival-2026@festival-ics.example",
+      "name": "Busan International Kids & Youth Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-14",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.biky.or.kr/eng/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "japan-cuts-2026@festival-ics.example",
+      "name": "Japan Cuts",
+      "country": "United States",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-18",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://japansociety.org/film/japancuts/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -1793,6 +1961,18 @@
       "notes": ""
     },
     {
+      "uid": "nits-festival-of-oriental-cinema-2026@festival-ics.example",
+      "name": "Nits Festival of Oriental Cinema",
+      "country": "Spain",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-19",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://cinemaoriental.com/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "boulder-environmental-nature-outdoors-film-festival-2026@festival-ics.example",
       "name": "Boulder Environmental Nature Outdoors Film Festival",
       "country": "US",
@@ -1838,6 +2018,18 @@
       "status": "confirmed",
       "website": "https://www.miffest.com.my/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "mini-film-festival-2026@festival-ics.example",
+      "name": "Mini Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-19",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.instagram.com/minifilmfestival/?hl=en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -1901,6 +2093,42 @@
       "notes": ""
     },
     {
+      "uid": "asian-film-festival-of-dallas-2026@festival-ics.example",
+      "name": "Asian Film Festival of Dallas",
+      "country": "USA",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-26",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://asianfilmdallas.org/our-mission",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "experimental-film-and-video-festival-in-seoul-2026@festival-ics.example",
+      "name": "Experimental Film and Video Festival in Seoul",
+      "country": "South Korea",
+      "startDate": "2026-07-23",
+      "endDate": "2026-07-30",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://ex-is.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "taiwan-film-festival-in-australia-2026@festival-ics.example",
+      "name": "Taiwan Film Festival in Australia",
+      "country": "Australia",
+      "startDate": "2026-07-23",
+      "endDate": "2026-09-06",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.taiwanfilmfestival.org.au/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "woods-hole-film-festival-2026@festival-ics.example",
       "name": "Woods Hole Film Festival",
       "country": "US",
@@ -1949,6 +2177,18 @@
       "notes": ""
     },
     {
+      "uid": "asian-american-international-film-festival-2026@festival-ics.example",
+      "name": "Asian American International Film Festival",
+      "country": "USA",
+      "startDate": "2026-07-30",
+      "endDate": "2026-08-09",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.asiancinevision.org/aaiff/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "membrana-film-festival-2026@festival-ics.example",
       "name": "Membrana Film Festival",
       "country": "UK",
@@ -1982,6 +2222,18 @@
       "status": "confirmed",
       "website": "https://miff.com.au/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "bengaluru-international-short-film-festival-2026@festival-ics.example",
+      "name": "Bengaluru International Short Film Festival",
+      "country": "India",
+      "startDate": "2026-08-06",
+      "endDate": "2026-08-16",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://bisff.in/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2021,6 +2273,30 @@
       "notes": ""
     },
     {
+      "uid": "jeongdongjin-independent-film-festival-2026@festival-ics.example",
+      "name": "Jeongdongjin Independent Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-10",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://jiff.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "international-documentary-short-film-festival-2026@festival-ics.example",
+      "name": "International Documentary & Short Film Festival",
+      "country": "India",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://dokufest.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "edinburgh-international-film-festival-2026@festival-ics.example",
       "name": "Edinburgh International Film Festival",
       "country": "UK",
@@ -2045,6 +2321,29 @@
       "notes": ""
     },
     {
+      "uid": "binisaya-film-festival-2026@festival-ics.example",
+      "name": "Binisaya Film Festival",
+      "country": "Philippines",
+      "startDate": "2026-08-16",
+      "endDate": "2026-08-23",
+      "category": "festival",
+      "status": "confirmed",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "hiroshima-animation-season-2026@festival-ics.example",
+      "name": "Hiroshima Animation Season",
+      "country": "Japan",
+      "startDate": "2026-08-19",
+      "endDate": "2026-08-23",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://animation.hiroshimafest.org/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "august-sunrise-film-festival-2026@festival-ics.example",
       "name": "August Sunrise Film Festival",
       "country": "UK",
@@ -2056,6 +2355,18 @@
       "notes": ""
     },
     {
+      "uid": "seoul-international-women-s-film-festival-2026@festival-ics.example",
+      "name": "Seoul International Women’s Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-20",
+      "endDate": "2026-08-26",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://siwff.or.kr/eng/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "counties-independent-film-festival-2026@festival-ics.example",
       "name": "Counties Independent Film Festival",
       "country": "UK",
@@ -2064,6 +2375,30 @@
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "cheongju-international-short-film-festival-2026@festival-ics.example",
+      "name": "Cheongju International Short Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-23",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://cjiff.co.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "seoul-international-newmedia-festival-2026@festival-ics.example",
+      "name": "Seoul International NewMedia Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-27",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.nemaf.net/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2079,6 +2414,42 @@
       "notes": ""
     },
     {
+      "uid": "ebs-international-documentary-festival-2026@festival-ics.example",
+      "name": "EBS International Documentary Festival",
+      "country": "South Korea",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-30",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.eidf.co.kr/eng",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "docs-by-the-sea-2026@festival-ics.example",
+      "name": "Docs by The Sea",
+      "country": "| Indonesia",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-09",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://docsbythesea.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "raintown-film-festival-2026@festival-ics.example",
+      "name": "Raintown Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.instagram.com/raintownfilmfestival/?hl=en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "september-venice-international-film-festival-2026@festival-ics.example",
       "name": "September Venice International Film Festival",
       "country": "Italy",
@@ -2087,6 +2458,30 @@
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "aichi-international-women-s-film-festival-2026@festival-ics.example",
+      "name": "Aichi International Women’s Film Festival",
+      "country": "Japan",
+      "startDate": "2026-09-02",
+      "endDate": "2026-09-06",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.aiwff.com/2026/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "korean-film-festival-in-barcelona-2026@festival-ics.example",
+      "name": "Korean Film Festival in Barcelona",
+      "country": "Spain",
+      "startDate": "2026-09-02",
+      "endDate": "2026-09-06",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://koreanfilmfestivalbcn.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2102,6 +2497,30 @@
       "notes": ""
     },
     {
+      "uid": "persons-with-disabilities-film-festival-rescheduled-tba-2026@festival-ics.example",
+      "name": "Persons with Disabilities Film Festival (rescheduled tba)",
+      "country": "South Korea",
+      "startDate": "2026-09-03",
+      "endDate": "2026-09-07",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.pdff.or.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "jecheon-international-music-film-festival-2026@festival-ics.example",
+      "name": "Jecheon International Music & Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-03",
+      "endDate": "2026-09-09",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://jimff.org/eng/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "brussels-international-film-festival-2026@festival-ics.example",
       "name": "Brussels International Film Festival",
       "country": "Belgium",
@@ -2111,6 +2530,30 @@
       "status": "confirmed",
       "website": "https://briff.be/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "vancouver-taiwanese-film-festival-2026@festival-ics.example",
+      "name": "Vancouver Taiwanese Film Festival",
+      "country": "Canada",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-05",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.twff.ca/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "hong-kong-lesbian-and-gay-film-festival-2026@festival-ics.example",
+      "name": "Hong Kong Lesbian and Gay Film Festival",
+      "country": "| Hong Kong",
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-19",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.hklgff.hk/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2162,6 +2605,66 @@
       "notes": ""
     },
     {
+      "uid": "taiwan-film-festival-of-boson-2026@festival-ics.example",
+      "name": "Taiwan Film Festival of Boson",
+      "country": "USA",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-21",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://taiwanfilmfest.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "seoul-international-children-s-film-festival-2026@festival-ics.example",
+      "name": "Seoul International Children’s Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.sicff.kr/eng/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "dc-south-asian-film-festival-2026@festival-ics.example",
+      "name": "DC South Asian Film Festival",
+      "country": "USA",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://dcsaaci.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "minikino-film-week-2026@festival-ics.example",
+      "name": "Minikino Film Week",
+      "country": "Indonesia",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-18",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://minikino.org/filmweek/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "kota-kinabalu-international-film-festival-2026@festival-ics.example",
+      "name": "Kota Kinabalu International Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-19",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.kkiff.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "atlantic-international-film-festival-2026@festival-ics.example",
       "name": "Atlantic International Film Festival",
       "country": "Canada",
@@ -2207,6 +2710,30 @@
       "status": "confirmed",
       "website": "https://hiff.fi/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "chicago-south-asian-film-festival-2026@festival-ics.example",
+      "name": "Chicago South Asian Film Festival",
+      "country": "USA",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-20",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.csaff.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "korea-independent-animation-film-festival-indie-anifest-2026@festival-ics.example",
+      "name": "Korea Independent Animation Film Festival Indie-Anifest",
+      "country": "South Korea",
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-22",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.ianifest.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2258,6 +2785,42 @@
       "notes": ""
     },
     {
+      "uid": "japan-film-festival-los-angeles-2026@festival-ics.example",
+      "name": "Japan Film Festival Los Angeles",
+      "country": "USA",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-12",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://jffla.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "gyeonggi-film-school-festival-2026@festival-ics.example",
+      "name": "Gyeonggi Film School Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.gfsf.co.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "ulju-mountain-film-festival-2026@festival-ics.example",
+      "name": "Ulju Mountain Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-22",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.umff.kr/eng/default.asp",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "cinefest-sudbury-international-film-festival-2026@festival-ics.example",
       "name": "Cinefest Sudbury International Film Festival",
       "country": "Canada",
@@ -2267,6 +2830,30 @@
       "status": "confirmed",
       "website": "https://cinefest.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "image-forum-festival-tokyo-2026@festival-ics.example",
+      "name": "Image Forum Festival Tokyo",
+      "country": "Japan",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-25",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.imageforumfestival.com/2026/en/bosyu/gaiyo/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "nara-international-film-festival-2026@festival-ics.example",
+      "name": "Nara International Film Festival",
+      "country": "Japan",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-23",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://nara-iff.jp/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2329,6 +2916,18 @@
       "notes": ""
     },
     {
+      "uid": "camera-japan-festival-2026@festival-ics.example",
+      "name": "Camera Japan Festival",
+      "country": "Netherlands",
+      "startDate": "2026-09-23",
+      "endDate": "2026-10-04",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://camerajapan.nl/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "filmfest-hamburg-2026@festival-ics.example",
       "name": "Filmfest Hamburg",
       "country": "Germany",
@@ -2365,6 +2964,18 @@
       "notes": ""
     },
     {
+      "uid": "taiwan-film-festival-berlin-2026@festival-ics.example",
+      "name": "Taiwan Film Festival Berlin",
+      "country": "Germany",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-04",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://tffberlin.de/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "new-york-film-festival-2026@festival-ics.example",
       "name": "New York Film Festival",
       "country": "US",
@@ -2377,6 +2988,18 @@
       "notes": ""
     },
     {
+      "uid": "odyssey-chinese-cinema-season-2026@festival-ics.example",
+      "name": "Odyssey Chinese Cinema Season",
+      "country": "UK",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-10",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.odysseychinesecinema.uk/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "iberseries-2026@festival-ics.example",
       "name": "IberSeries",
       "country": "Spain",
@@ -2386,6 +3009,18 @@
       "status": "confirmed",
       "website": "https://iberseriesplatinoindustria.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "arkipel-jakarta-international-documentary-experimental-film-festival-2026@festival-ics.example",
+      "name": "ARKIPEL Jakarta International Documentary & Experimental Film Festival",
+      "country": "Indonesia",
+      "startDate": "2026-09-3",
+      "endDate": "2026-09-13",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://arkipel.id/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2445,6 +3080,18 @@
       "status": "confirmed",
       "website": "https://viff.org/festival/viff-2026/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "mosaic-international-south-asian-film-festival-2026@festival-ics.example",
+      "name": "Mosaic International South Asian Film Festival",
+      "country": "Canada",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.misaff.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2568,6 +3215,18 @@
       "notes": ""
     },
     {
+      "uid": "viet-film-fest-2026@festival-ics.example",
+      "name": "Viet Film Fest",
+      "country": "USA",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-11",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.vietfilmfest.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "durban-filmmart-2026@festival-ics.example",
       "name": "Durban FilmMart",
       "country": "South Africa",
@@ -2616,6 +3275,30 @@
       "notes": ""
     },
     {
+      "uid": "ifva-film-festival-2026@festival-ics.example",
+      "name": "IFVA Film Festival",
+      "country": "| Hong Kong",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-24",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://ifva.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "kaohsiung-film-festival-2026@festival-ics.example",
+      "name": "Kaohsiung Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-26",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.kff.tw/en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "asian-contents-film-market-2026@festival-ics.example",
       "name": "Asian Contents & Film Market",
       "country": "South Korea",
@@ -2625,6 +3308,18 @@
       "status": "confirmed",
       "website": "https://www.acfm.kr/eng/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "taichung-international-animation-festival-2026@festival-ics.example",
+      "name": "Taichung International Animation Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-18",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://twtiaf.com/2025/index.php",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2660,6 +3355,18 @@
       "status": "confirmed",
       "website": "https://www.mipcom.com/en-gb.html",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "tasveer-film-festival-2026@festival-ics.example",
+      "name": "Tasveer Film Festival",
+      "country": "USA",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-18",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://tasveer.org/tasveer-film-festival/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2783,6 +3490,18 @@
       "notes": ""
     },
     {
+      "uid": "boston-asian-american-film-festival-2026@festival-ics.example",
+      "name": "Boston Asian American Film Festival",
+      "country": "USA",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-25",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://baaff.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "disappear-here-film-festival-2026@festival-ics.example",
       "name": "Disappear Here Film Festival",
       "country": "Ireland",
@@ -2795,6 +3514,18 @@
       "notes": ""
     },
     {
+      "uid": "women-makes-waves-international-film-festival-2026@festival-ics.example",
+      "name": "Women Makes Waves International Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-25",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.wmw.org.tw/en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "wildscreen-festival-2026@festival-ics.example",
       "name": "Wildscreen Festival",
       "country": "UK",
@@ -2804,6 +3535,18 @@
       "status": "confirmed",
       "website": "https://wildscreen.org/festival/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "project-k-the-korean-film-festival-2026@festival-ics.example",
+      "name": "Project K – The Korean Film Festival",
+      "country": "Germany",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-25",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://projectkffm.de/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2855,6 +3598,18 @@
       "notes": ""
     },
     {
+      "uid": "singapore-international-film-festival-2026@festival-ics.example",
+      "name": "Singapore International Film Festival",
+      "country": "| Singapore",
+      "startDate": "2026-10-21",
+      "endDate": "2026-11-01",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://sgiff.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "denver-film-festival-2026@festival-ics.example",
       "name": "Denver Film Festival",
       "country": "US",
@@ -2903,6 +3658,18 @@
       "notes": ""
     },
     {
+      "uid": "asian-film-festival-barcelona-2026@festival-ics.example",
+      "name": "Asian Film Festival Barcelona",
+      "country": "Spain",
+      "startDate": "2026-10-22",
+      "endDate": "2026-11-01",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://asianfilmfestival.barcelona/2026/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "ji-hlava-international-documentary-film-festival-2026@festival-ics.example",
       "name": "Ji.hlava International Documentary Film Festival",
       "country": "Czechia",
@@ -2923,6 +3690,30 @@
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "sapporo-international-short-film-festival-and-market-2026@festival-ics.example",
+      "name": "Sapporo International Short Film Festival and Market",
+      "country": "Japan",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://sapporoshortfest.jp/index-en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "bucheon-international-animation-festival-2026@festival-ics.example",
+      "name": "Bucheon International Animation Festival",
+      "country": "South Korea",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-27",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.biaf.or.kr/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -2962,6 +3753,30 @@
       "notes": ""
     },
     {
+      "uid": "ngilngig-asian-fantastic-film-festival-davao-2026@festival-ics.example",
+      "name": "Ngilngig Asian Fantastic Film Festival Davao",
+      "country": "Philippines",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-28",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://ngilngig.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "kuandu-international-animation-festival-2026@festival-ics.example",
+      "name": "Kuandu International Animation Festival",
+      "country": "Taiwan",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://kdiaf.tnua.edu.tw/web/program/program.jsp?cp_id=CP1761735796590&lang=en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "dok-leipzig-2026@festival-ics.example",
       "name": "DOK Leipzig",
       "country": "Germany",
@@ -2983,6 +3798,30 @@
       "status": "confirmed",
       "website": "https://2026.tiff-jp.net/en/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "seoul-international-senior-film-festival-2026@festival-ics.example",
+      "name": "Seoul International Senior Film Festival",
+      "country": "South Korea",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "http://sisff.seoulnoin.or.kr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "korean-film-festival-in-paris-2026@festival-ics.example",
+      "name": "Korean Film Festival in Paris",
+      "country": "France",
+      "startDate": "2026-10-27",
+      "endDate": "2026-11-03",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "http://www.ffcp-cinema.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -3034,6 +3873,18 @@
       "notes": ""
     },
     {
+      "uid": "dharamshala-international-film-festival-2026@festival-ics.example",
+      "name": "Dharamshala International Film Festival",
+      "country": "India",
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-01",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://diff.co.in/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "filmchelt-cheltenham-film-festival-2026@festival-ics.example",
       "name": "FilmChelt - Cheltenham Film Festival",
       "country": "UK",
@@ -3058,6 +3909,30 @@
       "notes": ""
     },
     {
+      "uid": "kineko-international-children-s-film-festival-2026@festival-ics.example",
+      "name": "Kineko International Children’s Film Festival",
+      "country": "Japan",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-03",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.kineko.jp/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "beijing-queer-film-festival-2026@festival-ics.example",
+      "name": "Beijing Queer Film Festival",
+      "country": "China",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-08",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.bjqff.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "november-rehoboth-beach-international-film-festival-2026@festival-ics.example",
       "name": "November Rehoboth Beach International Film Festival",
       "country": "US",
@@ -3066,6 +3941,18 @@
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "tokyo-filmex-international-film-festival-2026@festival-ics.example",
+      "name": "Tokyo FILMex International Film Festival",
+      "country": "Japan",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-30",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.filmex.jp/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -3153,6 +4040,54 @@
       "notes": ""
     },
     {
+      "uid": "philadelphia-asian-american-film-festival-2026@festival-ics.example",
+      "name": "Philadelphia Asian American Film Festival",
+      "country": "USA",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://paaff.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "vancouver-asian-film-festival-2026@festival-ics.example",
+      "name": "Vancouver Asian Film Festival",
+      "country": "Canada",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://vaff.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "san-diego-asian-film-festival-2026@festival-ics.example",
+      "name": "San Diego Asian Film Festival",
+      "country": "USA",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://sdaff.org/2025/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "taipei-golden-horse-film-festival-2026@festival-ics.example",
+      "name": "Taipei Golden Horse Film Festival",
+      "country": "Taiwan",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-22",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.goldenhorse.org.tw/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "camerimage-film-festival-2026@festival-ics.example",
       "name": "Camerimage Film Festival",
       "country": "Poland",
@@ -3189,6 +4124,18 @@
       "notes": ""
     },
     {
+      "uid": "five-flavours-film-festival-2026@festival-ics.example",
+      "name": "Five Flavours Film Festival",
+      "country": "Poland",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-17",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.piecsmakow.pl/index.do?lang=en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "uk-november-11-doc-nyc-2026@festival-ics.example",
       "name": "UK - November 11 DOC NYC",
       "country": "US",
@@ -3197,6 +4144,30 @@
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "seashorts-film-festival-2026@festival-ics.example",
+      "name": "SeaShorts Film Festival",
+      "country": "Malaysia",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.instagram.com/seashortsfilmfest/?hl=en",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "toronto-reel-asian-international-film-festival-2026@festival-ics.example",
+      "name": "Toronto Reel Asian International Film Festival",
+      "country": "Canada",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-21",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.reelasian.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -3224,6 +4195,30 @@
       "notes": ""
     },
     {
+      "uid": "asian-world-film-festival-2026@festival-ics.example",
+      "name": "Asian World Film Festival",
+      "country": "USA",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-19",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.asianworldfilmfest.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "qcinema-international-film-festival-2026@festival-ics.example",
+      "name": "QCinema International Film Festival",
+      "country": "Philippines",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-22",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://qcinema.ph/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "city-lights-film-festival-2026@festival-ics.example",
       "name": "City Lights Film Festival",
       "country": "UK",
@@ -3233,6 +4228,30 @@
       "status": "confirmed",
       "website": "https://citylightsfilmfestival.com/",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "cartoons-underground-2026@festival-ics.example",
+      "name": "Cartoons Underground",
+      "country": "Singapore",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://cartoonsunderground.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "yellowstone-international-film-festival-2026@festival-ics.example",
+      "name": "Yellowstone International Film Festival",
+      "country": "India",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-20",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://yellowstoneinternationalfilmfestival.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -3260,6 +4279,42 @@
       "notes": ""
     },
     {
+      "uid": "new-chitose-airport-international-animation-festival-2026@festival-ics.example",
+      "name": "New Chitose Airport International Animation Festival",
+      "country": "Japan",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-24",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://airport-anifes.jp/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "festival-film-dokumenter-2026@festival-ics.example",
+      "name": "Festival Film Dokumenter",
+      "country": "Indonesia",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-27",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://ffd.or.id/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "mulan-international-film-festival-2026@festival-ics.example",
+      "name": "Mulan International Film Festival",
+      "country": "Canada",
+      "startDate": "2026-11-21",
+      "endDate": "2026-12-03",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://mulanfestival.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "tfl-meeting-event-2026@festival-ics.example",
       "name": "TFL Meeting Event",
       "country": "Italy",
@@ -3269,6 +4324,30 @@
       "status": "confirmed",
       "website": "https://www.torinofilmlab.it/events/tfl-meeting-event-2026",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "film-southasia-2026@festival-ics.example",
+      "name": "Film SouthAsia",
+      "country": "Nepal",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-29",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://filmsouthasia.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "nepal-human-rights-international-film-festival-2026@festival-ics.example",
+      "name": "Nepal Human Rights International Film Festival",
+      "country": "Nepal",
+      "startDate": "2026-11-27",
+      "endDate": "2026-12-01",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://hrfilms.org/filmfestival/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     },
     {
@@ -3296,6 +4375,30 @@
       "notes": ""
     },
     {
+      "uid": "jogja-netpac-asian-film-festival-2026@festival-ics.example",
+      "name": "Jogja NETPAC Asian Film Festival",
+      "country": "Indonesia",
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-05",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://jaff-filmfest.org/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "kinotayo-festival-of-contemporary-japanese-cinema-in-france-2026@festival-ics.example",
+      "name": "Kinotayo Festival of Contemporary Japanese Cinema in France",
+      "country": "France",
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-12",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://kinotayo.fr/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "december-asia-tv-forum-market-2026@festival-ics.example",
       "name": "December Asia TV Forum & Market",
       "country": "Singapore",
@@ -3307,6 +4410,18 @@
       "notes": ""
     },
     {
+      "uid": "asia-tv-forum-market-2026@festival-ics.example",
+      "name": "Asia TV Forum & Market",
+      "country": "| Singapore",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-04",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://www.asiatvforum.com/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
       "uid": "uk-december-3-red-sea-international-film-festival-2026@festival-ics.example",
       "name": "UK - December 3 Red Sea International Film Festival",
       "country": "Saudi Arabia",
@@ -3315,6 +4430,64 @@
       "category": "festival",
       "status": "confirmed",
       "sourceUrl": "https://www.screendaily.com/news/2026-film-festivals-and-markets-calendar-latest-dates/5211872.article",
+      "notes": ""
+    },
+    {
+      "uid": "red-sea-international-film-festival-2026@festival-ics.example",
+      "name": "Red Sea International Film Festival",
+      "country": "Saudi Arabia",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-12",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://redseafilmfest.com/en/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "luang-prabang-film-festival-2026@festival-ics.example",
+      "name": "Luang Prabang Film Festival",
+      "country": "Laos",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-08",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://bluechair.film/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "international-film-festival-of-kerala-2026@festival-ics.example",
+      "name": "International Film Festival of Kerala",
+      "country": "India",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-18",
+      "category": "festival",
+      "status": "confirmed",
+      "website": "https://iffk.in/",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "metro-manila-film-festival-2026@festival-ics.example",
+      "name": "Metro Manila Film Festival",
+      "country": "Philippines",
+      "startDate": "2026-12-25",
+      "endDate": "2027-01-07",
+      "category": "festival",
+      "status": "confirmed",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
+      "notes": ""
+    },
+    {
+      "uid": "manila-international-film-festival-2026@festival-ics.example",
+      "name": "Manila International Film Festival",
+      "country": "USA",
+      "startDate": "2026-12-25",
+      "endDate": "2027-01-07",
+      "category": "festival",
+      "status": "confirmed",
+      "sourceUrl": "https://asianfilmfestivals.com/schedule/",
       "notes": ""
     }
   ]

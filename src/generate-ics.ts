@@ -1,23 +1,44 @@
 import { readFile, mkdir, writeFile } from "node:fs/promises";
 import { createEvents, type EventAttributes } from "ics";
+import { countries, continents } from "countries-list";
 import type { FestivalDataset, FestivalEntry } from "./types.js";
+
+type Continent =
+  | "africa"
+  | "asia"
+  | "europe"
+  | "north-america"
+  | "south-america"
+  | "oceania";
+
+const CONTINENT_FILES: Record<string, Continent> = {
+  Africa: "africa",
+  Asia: "asia",
+  Europe: "europe",
+  "North America": "north-america",
+  "South America": "south-america",
+  Oceania: "oceania",
+};
+
+// Build the country-name lookup once instead of searching the
+// countries list for every festival.
+const countriesByName = new Map(
+  Object.values(countries).map((country) => [country.name, country]),
+);
 
 function toDateArray(dateStr: string): [number, number, number] {
   const [y, m, d] = dateStr.split("-").map(Number);
+
   return [y, m, d];
 }
 
 function toEvent(entry: FestivalEntry): EventAttributes {
-  // ics wants end date exclusive-of-time as an all-day event's day AFTER
-  // the last day when using date-only arrays with no end time — but the
-  // `ics` package's own convention is end date = last full day, inclusive,
-  // when both start/end omit time. We rely on that documented behavior.
   const title =
     entry.status === "cancelled"
       ? `[CANCELLED] ${entry.name}`
       : entry.status === "rescheduled"
-      ? `[RESCHEDULED] ${entry.name}`
-      : entry.name;
+        ? `[RESCHEDULED] ${entry.name}`
+        : entry.name;
 
   return {
     uid: entry.uid,
@@ -39,29 +60,90 @@ function toEvent(entry: FestivalEntry): EventAttributes {
       entry.status === "cancelled"
         ? "CANCELLED"
         : entry.status === "tentative"
-        ? "TENTATIVE"
-        : "CONFIRMED",
-    // All-day events: omit explicit UTC/timezone handling entirely and
-    // let calendar apps treat this as a whole-day block rather than
-    // dealing with per-timezone start/end times.
+          ? "TENTATIVE"
+          : "CONFIRMED",
   };
+}
+
+function getContinent(countryName: string): Continent | undefined {
+  const country = countriesByName.get(countryName);
+
+  if (!country) {
+    return undefined;
+  }
+
+  const continentName = continents[country.continent];
+
+  return CONTINENT_FILES[continentName];
+}
+
+async function writeCalendar(filename: string, entries: FestivalEntry[]) {
+  const events = entries.map(toEvent);
+
+  const { error, value } = createEvents(events);
+
+  if (error) {
+    throw error;
+  }
+
+  await writeFile(`dist/${filename}`, value ?? "", "utf-8");
+
+  console.log(`Wrote dist/${filename} with ${events.length} events.`);
 }
 
 async function main() {
   const raw = await readFile("data/festivals.json", "utf-8");
+
   const dataset = JSON.parse(raw) as FestivalDataset;
 
-  const events = dataset.festivals.map(toEvent);
-  const { error, value } = createEvents(events);
+  await mkdir("dist", { recursive: true });
 
-  if (error) {
-    console.error(error);
-    process.exit(1);
+  /*
+   * Generate the complete festival calendar.
+   *
+   * dist/festivals.ics
+   */
+  await writeCalendar("festivals.ics", dataset.festivals);
+
+  /*
+   * Group festivals by continent.
+   */
+  const continentEvents = new Map<Continent, FestivalEntry[]>();
+
+  for (const entry of dataset.festivals) {
+    const continent = getContinent(entry.country);
+
+    if (!continent) {
+      console.warn(
+        `Could not determine continent for "${entry.name}" (${entry.country})`,
+      );
+
+      continue;
+    }
+
+    const events = continentEvents.get(continent) ?? [];
+
+    events.push(entry);
+
+    continentEvents.set(continent, events);
   }
 
-  await mkdir("dist", { recursive: true });
-  await writeFile("dist/festivals.ics", value ?? "");
-  console.log(`Wrote dist/festivals.ics with ${events.length} events.`);
+  /*
+   * Generate one calendar for each continent.
+   *
+   * dist/africa.ics
+   * dist/asia.ics
+   * dist/europe.ics
+   * dist/north-america.ics
+   * dist/south-america.ics
+   * dist/oceania.ics
+   */
+  for (const continent of Object.values(CONTINENT_FILES)) {
+    await writeCalendar(
+      `${continent}.ics`,
+      continentEvents.get(continent) ?? [],
+    );
+  }
 }
 
 main().catch((err) => {
